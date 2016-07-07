@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hey my name is John Bampton and I live in [BrisVegas](https://en.wikipedia.org/wiki/Brisbane){:target="_blank"}, well that's what we call Brisbane here.
-I have a live by the keyboard, die by the keyboard kind of attitude and some of the important things in my are life are the [Jedi](
+I have a live by the keyboard, die by the keyboard kind of attitude and some of the important things in my life are the [Jedi](
 https://www.google.com.au/search?q=jedi+master&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiZgqHXk9zLAhXkYaYKHW05CB4QsAQIPA&biw=1285&bih=1415){:target="_blank"}, [Barnabus](
 https://en.wikipedia.org/wiki/Barney_Stinson){:target="_blank"} Barney Stinson, [The Bro from Seinfeld](
 https://www.google.com.au/search?q=seinfeld+the+bro&espv=2&biw=1285&bih=1415&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjhtLvDlNzLAhWC5qYKHczfC3cQsAQIIw){:target="_blank"}....[no soup for you](

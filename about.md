@@ -65,7 +65,13 @@ https://www.mysql.com/products/workbench/){:target="_blank"}, [SQLyog](https://w
 - [Git](https://git-scm.com/){:target="_blank"} and [Subversion](
 https://subversion.apache.org/){:target="_blank"} for version control.
 
-- [Homebrew](http://brew.sh/){:target="_blank"}, [RVM](http://rvm.io/){:target="_blank"}
+- [Homebrew](http://brew.sh/){:target="_blank"}, [RVM](
+http://rvm.io/){:target="_blank"}
+
+- [Windows 7, 8 and 10](
+https://www.microsoft.com/en-au/windows/features){:target="_blank"}, [OS X El Capitan](
+http://www.apple.com/au/osx/whats-new/){:target="_blank"}, [Linux mainly Ubuntu variants, Xubuntu, Lubuntu, Kubuntu](
+http://www.ubuntu.com/){:target="_blank"}, [Linux Mint](https://www.linuxmint.com/){:target="_blank"}
 
 
 **I sometimes manage to find work here - I against the millions...**

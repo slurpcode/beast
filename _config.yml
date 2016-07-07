@@ -8,8 +8,10 @@
 # Site settings
 title: Chariots of Fire
 description: > # this means to ignore newlines until "baseurl:"
-  In the middle of the night Beast lurks out there in cyber space
-  wielding his lightsaber that was forged with a blend of PHP and Ruby.
+  In the middle of the night The Beast lurks out there in cyberspace
+  wielding his lightsaber that was forged with a super hardened blend of PHP and Ruby.
+  For The Beast had been rigourously trained in childhood on the Atari and conditioned
+  on the likes of the VIC-20 and the XT. Decades now have passed....Enter The Beast..!?!?!!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jbampton.github.io" # the base hostname & protocol for your site
 twitter_username: johnbampton

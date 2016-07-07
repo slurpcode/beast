@@ -5,12 +5,14 @@ permalink: /about/
 ---
 
 Hey my name is John Bampton and I live in [BrisVegas](https://en.wikipedia.org/wiki/Brisbane){:target="_blank"}, well that's what we call Brisbane here.
-I have a live by the keyboard, die by the keyboard kind of attitude and some of the important things in my life are the [Jedi](
+I have a live by the keyboard, die by the keyboard kind of attitude and some of the important things in my life are [The Jedi](
 https://www.google.com.au/search?q=jedi+master&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiZgqHXk9zLAhXkYaYKHW05CB4QsAQIPA&biw=1285&bih=1415){:target="_blank"}, [Barnabus](
 https://en.wikipedia.org/wiki/Barney_Stinson){:target="_blank"} Barney Stinson, [The Bro from Seinfeld](
 https://www.google.com.au/search?q=seinfeld+the+bro&espv=2&biw=1285&bih=1415&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjhtLvDlNzLAhWC5qYKHczfC3cQsAQIIw){:target="_blank"}....[no soup for you](
 https://www.google.com.au/search?q=no+soup+for+you&espv=2&biw=1216&bih=1391&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiyoY6uluLNAhVGsJQKHQW1A1UQ_AUIBigB), [International Departures](
-https://www.mixcloud.com/internationaldepartures/), [ABGT](http://www.aboveandbeyond.nu/abgt){:target="_blank"}, [Menulog](https://www.menulog.com.au/){:target="_blank"}
+https://www.mixcloud.com/internationaldepartures/), [ABGT](
+http://www.aboveandbeyond.nu/abgt){:target="_blank"}, [Menulog](
+https://www.menulog.com.au/){:target="_blank"}.
 
 So now that you have the general picture....
 
@@ -40,7 +42,8 @@ https://en.wikipedia.org/wiki/XQuery){:target="_blank"}, [Saxon](
 http://www.saxonica.com/welcome/welcome.xml){:target="_blank"}, [Ibex](
 http://www.xmlpdf.com/){:target="_blank"}, [EXSLT](
 http://exslt.org/){:target="_blank"}, [Xalan](
-https://xml.apache.org/xalan-j/){:target="_blank"} 
+https://xml.apache.org/xalan-j/){:target="_blank"}, [XML Schema](
+https://www.w3.org/standards/xml/schema){:target="_blank"} 
 
 - [Sublime Text](
 https://www.sublimetext.com){:target="_blank"}, [Komodo IDE](
@@ -122,13 +125,29 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 
 - [Codecombat](https://codecombat.com/user/john-bampton){:target="_blank"}
 
+
+**List of some other tools I have used...not all..**
+======================
+
+- [WinMerge](
+http://winmerge.org/?lang=en){:target="_blank"}, [WinSCP](
+https://winscp.net/eng/index.php){:target="_blank"}
+
+- [Syncro SVN client](
+http://www.syncrosvnclient.com/){:target="_blank"},[GitHub Desktop](
+https://desktop.github.com/){:target="_blank"}, [Bitbucket](
+https://bitbucket.org/){:target="_blank"}, [JIRA](
+https://www.atlassian.com/software/jira){:target="_blank"}, [Confluence](
+https://www.atlassian.com/software/confluence){:target="_blank"}
+
+
 {::comment}
+
+
 **Social**
 =====================
 
 https://www.google.com/+JohnBampton
-
-https://twitter.com/johnbampton
 
 https://www.youtube.com/channel/UCitIpEBxV_-DbycXL1kag2w
 

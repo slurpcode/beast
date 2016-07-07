@@ -32,9 +32,9 @@ https://en.wikipedia.org/wiki/Markdown){:target="_blank"} and [GitHub Pages](htt
 https://xmlgraphics.apache.org/fop/){:target="_blank"}, [DITA Open Toolkit](
 http://www.dita-ot.org/){:target="_blank"}, [DocBook](
 http://www.docbook.org/){:target="_blank"}, [XML](
-https://en.wikipedia.org/wiki/XML){:target="_blank"}  , [XPath](
-https://en.wikipedia.org/wiki/XPath){:target="_blank"}  , [XSLT](
-https://en.wikipedia.org/wiki/XSLT){:target="_blank"}  , [XSL-FO](
+https://en.wikipedia.org/wiki/XML){:target="_blank"}, [XPath](
+https://en.wikipedia.org/wiki/XPath){:target="_blank"}, [XSLT](
+https://en.wikipedia.org/wiki/XSLT){:target="_blank"}, [XSL-FO](
 https://en.wikipedia.org/wiki/XSL_Formatting_Objects){:target="_blank"}, [XQuery](
 https://en.wikipedia.org/wiki/XQuery){:target="_blank"}, [Saxon](
 http://www.saxonica.com/welcome/welcome.xml){:target="_blank"}, [Ibex](
@@ -72,6 +72,11 @@ http://rvm.io/){:target="_blank"}
 https://www.microsoft.com/en-au/windows/features){:target="_blank"}, [OS X El Capitan](
 http://www.apple.com/au/osx/whats-new/){:target="_blank"}, [Linux mainly Ubuntu variants, Xubuntu, Lubuntu, Kubuntu](
 http://www.ubuntu.com/){:target="_blank"}, [Linux Mint](https://www.linuxmint.com/){:target="_blank"}
+
+- [HTML 5](
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5){:target="_blank"}, [CSS](
+https://www.w3.org/Style/CSS/Overview.en.html){:target="_blank"}, [jQuery](
+https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:target="_blank"}  - I try not to focus on the front end.
 
 
 **I sometimes manage to find work here - I against the millions...**
@@ -134,34 +139,28 @@ https://soundcloud.com/johnbampton
 http://johnbampton.tumblr.com/
 
 https://www.pinterest.com/johnbampton/
-
-
-Some of my favorite websites
-====================================
-
-http://distrowatch.com
-
-http://rubular.com/
-
-http://ruby-doc.org/
-
-https://www.ruby-lang.org/en/
-
-https://www.ruby-toolbox.com/
-
-http://brew.sh/
-
-http://brewformulas.org/
-
-https://www.virtualbox.org/
-
-https://gtmetrix.com/
-
-https://validator.w3.org/
-
-https://www.woorank.com/
-
-https://developers.google.com/speed/pagespeed/insights/
 {:/comment}
+
+**Some of my favorite websites**
+===============================
+
+- [DistroWatch](http://distrowatch.com){:target="_blank"}
+
+- [Rubular](http://rubular.com/){:target="_blank"}
+
+- [Ruby-Doc.org](http://ruby-doc.org/){:target="_blank"}
+
+- [The Ruby Toolbox](https://www.ruby-toolbox.com/){:target="_blank"}
+
+- [Homebrew formulas index](http://brewformulas.org/){:target="_blank"}
+
+- [GTmetrix](https://gtmetrix.com/){:target="_blank"}
+
+- [W3C Markup Validation Service](https://validator.w3.org/){:target="_blank"}
+
+- [Woorank](https://www.woorank.com/){:target="_blank"}
+
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/){:target="_blank"}
+
 
 

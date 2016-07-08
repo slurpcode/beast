@@ -134,7 +134,7 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 - [Codecombat](https://codecombat.com/user/john-bampton){:target="_blank"}
 
 
-**A growing list of tools of software I have used**
+**A growing list of tools or software I have used**
 ======================
 
 - [WinMerge](
@@ -160,7 +160,15 @@ https://wordpress.org/){:target="_blank"}, [Putty](
 http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html){:target="_blank"}, [Midnight Commander](
 https://www.midnight-commander.org/){:target="_blank"}, [Visual Studio](
 https://www.visualstudio.com/){:target="_blank"}, [PowerShell](
-https://msdn.microsoft.com/en-us/powershell/mt173057.aspx){:target="_blank"}
+https://msdn.microsoft.com/en-us/powershell/mt173057.aspx){:target="_blank"}, [xsltproc](
+http://xmlsoft.org/XSLT/xsltproc2.html){:target="_blank"}
+
+
+**Some of my favorite programs**
+=============================
+
+- [VLC](http://www.videolan.org/){:target="_blank"}, [XChat](
+http://xchat.org/){:target="_blank"}
 
 
 **Social**

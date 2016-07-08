@@ -7,7 +7,7 @@ categories: welcome Ruby
  
 Well it wouldn't be a proper welcome without a code snippet would it...?!?!
 
-Below is some Ruby code that checks if 3 is between 1 and 5 inclusive and returns true if so.
+Below is some Ruby code that returns true if 3 is between 1 and 5 inclusive otherwise false.
 
 {% highlight ruby %}
 (1..5) === 3

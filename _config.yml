@@ -7,6 +7,7 @@
 
 # Site settings
 title: Chariots of Fire
+last_update: "Site last built: "
 description: > # this means to ignore newlines until "baseurl:"
   In the middle of the night The Beast lurks out there in cyberspace
   wielding his lightsaber that was forged with a super hardened blend of PHP and Ruby.

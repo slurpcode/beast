@@ -159,7 +159,8 @@ https://www.codeigniter.com/){:target="_blank"}, [Wordpress](
 https://wordpress.org/){:target="_blank"}, [Putty](
 http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html){:target="_blank"}, [Midnight Commander](
 https://www.midnight-commander.org/){:target="_blank"}, [Visual Studio](
-https://www.visualstudio.com/){:target="_blank"}, 
+https://www.visualstudio.com/){:target="_blank"}, [PowerShell](
+https://msdn.microsoft.com/en-us/powershell/mt173057.aspx){:target="_blank"}
 
 
 **Social**

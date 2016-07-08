@@ -76,8 +76,13 @@ http://rvm.io/){:target="_blank"}
 
 - [Windows 7, 8 and 10](
 https://www.microsoft.com/en-au/windows/features){:target="_blank"}, [OS X El Capitan](
-http://www.apple.com/au/osx/whats-new/){:target="_blank"}, [Linux mainly Ubuntu variants, Xubuntu, Lubuntu, Kubuntu](
-http://www.ubuntu.com/){:target="_blank"}, [Linux Mint](https://www.linuxmint.com/){:target="_blank"}
+http://www.apple.com/au/osx/whats-new/){:target="_blank"}, [Linux](
+http://www.linuxfoundation.org/){:target="_blank"} mainly [Ubuntu](
+http://www.ubuntu.com/){:target="_blank"} or Ubuntu variants like [xubuntu](
+http://xubuntu.org/){:target="_blank"}, [lubuntu](
+http://lubuntu.net/){:target="_blank"}, [Kubuntu](
+http://kubuntu.org/){:target="_blank"} or [Linux Mint](
+https://www.linuxmint.com/){:target="_blank"}
 
 - [HTML 5](
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5){:target="_blank"}, [CSS](

@@ -10,7 +10,7 @@ https://www.google.com.au/search?q=jedi+master&tbm=isch&tbo=u&source=univ&sa=X&v
 https://en.wikipedia.org/wiki/Barney_Stinson){:target="_blank"} Barney Stinson, [The Bro from Seinfeld](
 https://www.google.com.au/search?q=seinfeld+the+bro&espv=2&biw=1285&bih=1415&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjhtLvDlNzLAhWC5qYKHczfC3cQsAQIIw){:target="_blank"}....[no soup for you](
 https://www.google.com.au/search?q=no+soup+for+you&espv=2&biw=1216&bih=1391&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiyoY6uluLNAhVGsJQKHQW1A1UQ_AUIBigB), [International Departures](
-https://www.mixcloud.com/internationaldepartures/), [ABGT](
+https://www.mixcloud.com/internationaldepartures/){:target="_blank"}, [ABGT](
 http://www.aboveandbeyond.nu/abgt){:target="_blank"}, [Menulog](
 https://www.menulog.com.au/){:target="_blank"}. I've seen the first five seasons of [The Walking Dead](
 http://www.amc.com/shows/the-walking-dead){:target="_blank"} and I sometimes enjoy [Friday Night Football](
@@ -109,7 +109,7 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 
 - [SchoolYourself - AlgebraX: Introduction to Algebra](https://courses.edx.org/certificates/f6dbf8dcff354947aff06153b5fb8462){:target="_blank"}
 
-**Kung Fu training, Praying Mantis style**
+**Kung Fu Training, Praying Mantis Style**
 ===================
 
 - [Codewars](http://www.codewars.com/users/Beast/){:target="_blank"}
@@ -153,8 +153,6 @@ http://www.seamonkey-project.org/){:target="_blank"}
 
 - [YouTube](https://www.youtube.com/channel/UCitIpEBxV_-DbycXL1kag2w){:target="_blank"}
 
-
-
 **Some of my favorite websites**
 ===============================
 
@@ -175,6 +173,3 @@ http://www.seamonkey-project.org/){:target="_blank"}
 - [Woorank](https://www.woorank.com/){:target="_blank"}
 
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/){:target="_blank"}
-
-
-

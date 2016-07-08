@@ -144,7 +144,10 @@ https://bitbucket.org/){:target="_blank"}, [JIRA](
 https://www.atlassian.com/software/jira){:target="_blank"}, [Confluence](
 https://www.atlassian.com/software/confluence){:target="_blank"}, [Bitnami](
 https://bitnami.com/stacks){:target="_blank"}, [SeaMonkey](
-http://www.seamonkey-project.org/){:target="_blank"}
+http://www.seamonkey-project.org/){:target="_blank"}, [eXistdb](
+http://exist-db.org/exist/apps/homepage/index.html){:target="_blank"}, [BaseX](
+http://basex.org/){:target="_blank"}, [ColdFusion](
+http://www.adobe.com/au/products/coldfusion-family.html){:target="_blank"}
 
 **Social**
 =====================

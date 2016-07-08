@@ -14,7 +14,7 @@ https://www.mixcloud.com/internationaldepartures/){:target="_blank"}, [ABGT](
 http://www.aboveandbeyond.nu/abgt){:target="_blank"}, [Menulog](
 https://www.menulog.com.au/){:target="_blank"} and [Gandalf at dawn on the fifth day](https://www.youtube.com/watch?v=mNMk0XGa0bQ){:target="_blank"}. I've seen the first five seasons of [The Walking Dead](
 http://www.amc.com/shows/the-walking-dead){:target="_blank"} and I sometimes enjoy [Friday Night Football](
-http://www.nrl.com/){:target="_blank"} and my favorite new toy is [Komode Edit](
+http://www.nrl.com/){:target="_blank"} and my favorite new toy is [Komodo Edit](
 http://komodoide.com/komodo-edit/){:target="_blank"} where I am currently typing all of this.
 
 So by now you must already be thinking, wow John's got a Jekyll powered GitHub Pages blog with kramdown so he must love Ruby..!?!?!!?
@@ -50,7 +50,7 @@ https://www.w3.org/standards/xml/schema){:target="_blank"}
 
 - [Sublime Text](
 https://www.sublimetext.com){:target="_blank"}, [Komodo IDE](
-http://komodoide.com){:target="_blank"}, [Komode Edit](
+http://komodoide.com){:target="_blank"}, [Komodo Edit](
 http://komodoide.com/komodo-edit/){:target="_blank"}, [Pycharm](
 https://www.jetbrains.com/pycharm/){:target="_blank"}, [oXygen XML](
 https://www.oxygenxml.com/){:target="_blank"}, [Netbeans](
@@ -161,7 +161,8 @@ http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html){:target="_blank
 https://www.midnight-commander.org/){:target="_blank"}, [Visual Studio](
 https://www.visualstudio.com/){:target="_blank"}, [PowerShell](
 https://msdn.microsoft.com/en-us/powershell/mt173057.aspx){:target="_blank"}, [xsltproc](
-http://xmlsoft.org/XSLT/xsltproc2.html){:target="_blank"}
+http://xmlsoft.org/XSLT/xsltproc2.html){:target="_blank"}, [ImageMagick](
+http://www.imagemagick.org/script/index.php){:target="_blank"}
 
 
 **Some of my favorite programs**

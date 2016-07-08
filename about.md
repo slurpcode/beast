@@ -12,7 +12,7 @@ https://www.google.com.au/search?q=seinfeld+the+bro&espv=2&biw=1285&bih=1415&tbm
 https://www.google.com.au/search?q=no+soup+for+you&espv=2&biw=1216&bih=1391&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiyoY6uluLNAhVGsJQKHQW1A1UQ_AUIBigB){:target="_blank"}, [International Departures](
 https://www.mixcloud.com/internationaldepartures/){:target="_blank"}, [ABGT](
 http://www.aboveandbeyond.nu/abgt){:target="_blank"}, [Menulog](
-https://www.menulog.com.au/){:target="_blank"}. I've seen the first five seasons of [The Walking Dead](
+https://www.menulog.com.au/){:target="_blank"} and [Gandalf at dawn on the fifth day](https://www.youtube.com/watch?v=mNMk0XGa0bQ){:target="_blank"}. I've seen the first five seasons of [The Walking Dead](
 http://www.amc.com/shows/the-walking-dead){:target="_blank"} and I sometimes enjoy [Friday Night Football](
 http://www.nrl.com/){:target="_blank"} and my favorite new toy is [Komode Edit](
 http://komodoide.com/komodo-edit/){:target="_blank"} where I am currently typing all of this.

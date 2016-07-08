@@ -151,7 +151,7 @@ http://www.adobe.com/au/products/coldfusion-family.html){:target="_blank"}, [Tor
 https://tortoisesvn.net/){:target="_blank"}, [SVG](
 https://developer.mozilla.org/en-US/docs/Web/SVG){:target="_blank"}, [CodeIgniter](
 https://www.codeigniter.com/){:target="_blank"}, [Wordpress](
-https://wordpress.com/){:target="_blank"}
+https://wordpress.org/){:target="_blank"}
 
 **Social**
 =====================

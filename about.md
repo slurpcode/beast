@@ -12,9 +12,12 @@ https://www.google.com.au/search?q=seinfeld+the+bro&espv=2&biw=1285&bih=1415&tbm
 https://www.google.com.au/search?q=no+soup+for+you&espv=2&biw=1216&bih=1391&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiyoY6uluLNAhVGsJQKHQW1A1UQ_AUIBigB), [International Departures](
 https://www.mixcloud.com/internationaldepartures/), [ABGT](
 http://www.aboveandbeyond.nu/abgt){:target="_blank"}, [Menulog](
-https://www.menulog.com.au/){:target="_blank"}.
+https://www.menulog.com.au/){:target="_blank"}. I've seen the first five seasons of [The Walking Dead](
+http://www.amc.com/shows/the-walking-dead){:target="_blank"} and I sometimes enjoy [Friday Night Football](
+http://www.nrl.com/){:target="_blank"} and my favorite new toy is [Komode Edit](
+http://komodoide.com/komodo-edit/){:target="_blank"} where I am currently typing all of this.
 
-So now that you have the general picture....
+So by now you must already be thinking, wow John's got a Jekyll powered GitHub Pages blog with kramdown so he must love Ruby..!?!?!!?
 
 **Some of the cool tech I am interested in or I know about**
 ======================================================
@@ -131,34 +134,26 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 
 - [WinMerge](
 http://winmerge.org/?lang=en){:target="_blank"}, [WinSCP](
-https://winscp.net/eng/index.php){:target="_blank"}
-
-- [Syncro SVN client](
-http://www.syncrosvnclient.com/){:target="_blank"},[GitHub Desktop](
+https://winscp.net/eng/index.php){:target="_blank"}, [WAMP](
+http://www.wampserver.com/en/){:target="_blank"}, [XAMPP](
+https://www.apachefriends.org/index.html){:target="_blank"}, [FileZilla](
+https://filezilla-project.org/){:target="_blank"}, [Syncro SVN client](
+http://www.syncrosvnclient.com/){:target="_blank"}, [GitHub Desktop](
 https://desktop.github.com/){:target="_blank"}, [Bitbucket](
 https://bitbucket.org/){:target="_blank"}, [JIRA](
 https://www.atlassian.com/software/jira){:target="_blank"}, [Confluence](
-https://www.atlassian.com/software/confluence){:target="_blank"}
-
-
-{::comment}
-
+https://www.atlassian.com/software/confluence){:target="_blank"}, [Bitnami](
+https://bitnami.com/stacks){:target="_blank"}, [SeaMonkey](
+http://www.seamonkey-project.org/){:target="_blank"}
 
 **Social**
 =====================
 
-https://www.google.com/+JohnBampton
+- [Google+](https://www.google.com/+JohnBampton){:target="_blank"}
 
-https://www.youtube.com/channel/UCitIpEBxV_-DbycXL1kag2w
+- [YouTube](https://www.youtube.com/channel/UCitIpEBxV_-DbycXL1kag2w){:target="_blank"}
 
-https://myspace.com/johnbampton
 
-https://soundcloud.com/johnbampton
-
-http://johnbampton.tumblr.com/
-
-https://www.pinterest.com/johnbampton/
-{:/comment}
 
 **Some of my favorite websites**
 ===============================

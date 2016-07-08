@@ -156,7 +156,10 @@ http://www.adobe.com/au/products/coldfusion-family.html){:target="_blank"}, [Tor
 https://tortoisesvn.net/){:target="_blank"}, [SVG](
 https://developer.mozilla.org/en-US/docs/Web/SVG){:target="_blank"}, [CodeIgniter](
 https://www.codeigniter.com/){:target="_blank"}, [Wordpress](
-https://wordpress.org/){:target="_blank"}
+https://wordpress.org/){:target="_blank"}, [Putty](
+http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html){:target="_blank"}, [Midnight Commander](
+https://www.midnight-commander.org/){:target="_blank"}
+
 
 **Social**
 =====================

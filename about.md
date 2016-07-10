@@ -162,7 +162,9 @@ https://www.midnight-commander.org/){:target="_blank"}, [Visual Studio](
 https://www.visualstudio.com/){:target="_blank"}, [PowerShell](
 https://msdn.microsoft.com/en-us/powershell/mt173057.aspx){:target="_blank"}, [xsltproc](
 http://xmlsoft.org/XSLT/xsltproc2.html){:target="_blank"}, [ImageMagick](
-http://www.imagemagick.org/script/index.php){:target="_blank"}
+http://www.imagemagick.org/script/index.php){:target="_blank"}, [Vagrant](
+https://www.vagrantup.com/){:target="_blank"}, [Sass](
+http://sass-lang.com/){:target="_blank"}
 
 
 **Some of my favorite programs**

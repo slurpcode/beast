@@ -133,6 +133,8 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 
 - [Codecombat](https://codecombat.com/user/john-bampton){:target="_blank"}
 
+- [freeCodeCamp](https://www.freecodecamp.com/jbampton){:target="_blank"}
+
 
 **A growing list of tools or software I have used**
 ======================

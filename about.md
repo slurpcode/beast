@@ -121,7 +121,7 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 
 - [Codecademy](https://www.codecademy.com/phpsuperguru){:target="_blank"}
 
-- [Checkio](http://www.checkio.org/user/john.bampton/){:target="_blank"}
+- [CheckiO](http://www.checkio.org/user/john.bampton/){:target="_blank"}
 
 - [Codingame](https://www.codingame.com/profile/e3c327eb1fb4385f65fb5b98f567c564828638){:target="_blank"}
 

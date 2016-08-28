@@ -184,6 +184,8 @@ http://www.opera.com/){:target="_blank"}
 
 - [YouTube](https://www.youtube.com/channel/UCitIpEBxV_-DbycXL1kag2w){:target="_blank"}
 
+- [SoundCloud](https://soundcloud.com/johnbampton){:target="_blank"}
+
 **Some of my favorite websites**
 ===============================
 

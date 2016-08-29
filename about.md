@@ -123,9 +123,9 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 
 - [CheckiO](http://www.checkio.org/user/john.bampton/){:target="_blank"}
 
-- [Codingame](https://www.codingame.com/profile/e3c327eb1fb4385f65fb5b98f567c564828638){:target="_blank"}
+- [CodinGame](https://www.codingame.com/profile/e3c327eb1fb4385f65fb5b98f567c564828638){:target="_blank"}
 
-- [Datacamp](https://www.datacamp.com/profile/Beast){:target="_blank"}
+- [DataCamp](https://www.datacamp.com/profile/Beast){:target="_blank"}
 
 - [Khanacademy](https://www.khanacademy.org/profile/XSLTGod/){:target="_blank"}
 

@@ -129,7 +129,7 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 
 - [Khanacademy](https://www.khanacademy.org/profile/XSLTGod/){:target="_blank"}
 
-- [Codeschool](https://www.codeschool.com/users/JohnBampton){:target="_blank"}
+- [Code School](https://www.codeschool.com/users/JohnBampton){:target="_blank"}
 
 - [Codecombat](https://codecombat.com/user/john-bampton){:target="_blank"}
 

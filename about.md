@@ -169,7 +169,8 @@ http://www.imagemagick.org/script/index.php){:target="_blank"}, [Vagrant](
 https://www.vagrantup.com/){:target="_blank"}, [Sass](
 http://sass-lang.com/){:target="_blank"}, [SQL Server Management Studio](
 https://msdn.microsoft.com/en-us/library/mt238290.aspx){:target="_blank"}, [AVG](
-http://www.avg.com){:target="_blank"}
+http://www.avg.com){:target="_blank"}, [Avira](
+https://www.avira.com){:target="_blank"}
 
 
 **Some of my favorite programs**

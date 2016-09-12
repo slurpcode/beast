@@ -171,7 +171,8 @@ http://sass-lang.com/){:target="_blank"}, [SQL Server Management Studio](
 https://msdn.microsoft.com/en-us/library/mt238290.aspx){:target="_blank"}, [AVG](
 http://www.avg.com){:target="_blank"}, [Avira](
 https://www.avira.com){:target="_blank"}, [ClamAV](
-https://www.clamav.net){:target="_blank"}
+https://www.clamav.net){:target="_blank"}, [Avast](
+https://www.avast.com){:target="_blank"}
 
 
 **Some of my favorite programs**

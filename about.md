@@ -179,7 +179,8 @@ https://www.avast.com){:target="_blank"}
 =============================
 
 - [VLC](http://www.videolan.org/){:target="_blank"}, [XChat](
-http://xchat.org/){:target="_blank"}, [Opera](
+http://xchat.org/){:target="_blank"}, [XChat Azure](
+https://xchataqua.github.io/){:target="_blank"}, [Opera](
 http://www.opera.com/){:target="_blank"}
 
 

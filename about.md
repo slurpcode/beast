@@ -17,7 +17,7 @@ http://www.amc.com/shows/the-walking-dead){:target="_blank"} and I sometimes enj
 http://www.nrl.com/){:target="_blank"} and my favorite new toy is [Komodo Edit](
 http://komodoide.com/komodo-edit/){:target="_blank"} where I am currently typing all of this.
 
-So by now you must already be thinking, wow John's got a Jekyll powered GitHub Pages blog with kramdown so he must love Ruby..!?!?!!?
+So by now you must already be thinking, wow The Beast has a Jekyll powered GitHub Pages blog with kramdown so he must love Ruby..!?!?!!?
 
 **Some of the cool tech I am interested in or I know about**
 ======================================================

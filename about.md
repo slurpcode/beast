@@ -115,7 +115,7 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 
 - [SchoolYourself - AlgebraX: Introduction to Algebra](https://courses.edx.org/certificates/f6dbf8dcff354947aff06153b5fb8462){:target="_blank"}
 
-**Kung Fu Training, Praying Mantis Style**
+**Kung Fu Training, Praying Mantis Style, Channeling The Inner Beast**
 ===================
 
 - [Codewars](http://www.codewars.com/users/Beast/){:target="_blank"}

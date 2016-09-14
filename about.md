@@ -46,7 +46,8 @@ http://www.saxonica.com/welcome/welcome.xml){:target="_blank"}, [Ibex](
 http://www.xmlpdf.com/){:target="_blank"}, [EXSLT](
 http://exslt.org/){:target="_blank"}, [Xalan](
 https://xml.apache.org/xalan-j/){:target="_blank"}, [XML Schema](
-https://www.w3.org/standards/xml/schema){:target="_blank"} 
+https://www.w3.org/standards/xml/schema){:target="_blank"}, [Nokogiri](
+http://www.nokogiri.org/){:target="_blank"}
 
 - [Sublime Text](
 https://www.sublimetext.com){:target="_blank"}, [Komodo IDE](
@@ -135,6 +136,8 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 
 - [Free Code Camp](https://www.freecodecamp.com/jbampton){:target="_blank"}
 
+- [HackerRank](https://www.hackerrank.com/JohnBampton){:target="_blank"}
+
 
 **A growing list of tools or software I have used**
 ======================
@@ -173,7 +176,8 @@ http://www.avg.com){:target="_blank"}, [Avira](
 https://www.avira.com){:target="_blank"}, [ClamAV](
 https://www.clamav.net){:target="_blank"}, [Avast](
 https://www.avast.com){:target="_blank"}, [CoffeeScript](
-http://coffeescript.org/){:target="_blank"}
+http://coffeescript.org/){:target="_blank"}, [Lynx](
+https://en.wikipedia.org/wiki/Lynx_(web_browser)){:target="_blank"}
 
 
 **Some of my favorite programs**

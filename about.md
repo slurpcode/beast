@@ -198,6 +198,9 @@ http://www.opera.com/){:target="_blank"}
 
 - [SoundCloud](https://soundcloud.com/johnbampton){:target="_blank"}
 
+- [Twitter](https://twitter.com/johnbampton){:target="_blank"}
+
+
 **Some of my favorite websites**
 ===============================
 

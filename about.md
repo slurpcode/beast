@@ -59,7 +59,8 @@ https://netbeans.org/){:target="_blank"}, [Eclipse](
 https://www.eclipse.org/){:target="_blank"}, [IntelliJ](
 https://www.jetbrains.com/idea/){:target="_blank"}, [RubyMine](
 https://www.jetbrains.com/ruby/){:target="_blank"}, [XMLSpy](
-http://www.altova.com/xmlspy.html){:target="_blank"} 
+http://www.altova.com/xmlspy.html){:target="_blank"}, [Atom](
+https://atom.io/){:target="_blank"}
 
 - [General SQL](https://en.wikipedia.org/wiki/SQL){:target="_blank"} but mostly [MySQL](
 https://en.wikipedia.org/wiki/SQL){:target="_blank"}, [MySQL WorkBench](

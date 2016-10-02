@@ -14,7 +14,7 @@ https://www.mixcloud.com/internationaldepartures/){:target="_blank"}, [ABGT](
 http://www.aboveandbeyond.nu/abgt){:target="_blank"}, [Menulog](
 https://www.menulog.com.au/){:target="_blank"} and [Gandalf at dawn on the fifth day](https://www.youtube.com/watch?v=mNMk0XGa0bQ){:target="_blank"}. I've seen the first five seasons of [The Walking Dead](
 http://www.amc.com/shows/the-walking-dead){:target="_blank"} and I sometimes enjoy [Friday Night Football](
-http://www.nrl.com/){:target="_blank"} and my favorite new toy is [Atom.io](https://atom.io/){:target="_blank"} where I am currently typing some of this.
+http://www.nrl.com/){:target="_blank"} and my favorite new toy is [Atom](https://atom.io/){:target="_blank"} where I am currently typing some of this.
 
 So by now you must already be thinking, wow The Beast has a Jekyll powered GitHub Pages blog with kramdown so he must love Ruby..!?!?!!?
 

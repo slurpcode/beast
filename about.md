@@ -228,4 +228,4 @@ http://www.opera.com/){:target="_blank"}
 **The Beast Style**
 =====================
 
-![The Beast Style](images/HonorBreakdown.png)
+![The Beast Style](/images/HonorBreakdown.png)

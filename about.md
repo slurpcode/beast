@@ -224,3 +224,8 @@ http://www.opera.com/){:target="_blank"}
 - [Woorank](https://www.woorank.com/){:target="_blank"}
 
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/){:target="_blank"}
+
+**The Beast Style**
+=====================
+
+![The Beast Style](images/HonorBreakdown.png)

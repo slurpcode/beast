@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey my name is John Bampton, well actually some people call me The Beast, or just Beast for short.  Deep down inside I'm a truly magical and wondrous Beast. I live in [BrisVegas](https://en.wikipedia.org/wiki/Brisbane){:target="_blank"}, well that's what we call Brisbane here.
+Hey my name is John Bampton, well actually some people call me The Beast,  [The Beast 234 Style](https://www.codewars.com/users/Beast/site-events){:target="_blank"} (disclaimer number subject to change) or just Beast for short.  Deep down inside I'm a truly magical and wondrous Beast. I live in [BrisVegas](https://en.wikipedia.org/wiki/Brisbane){:target="_blank"}, well that's what we call Brisbane here.
 I have a live by the keyboard, die by the keyboard kind of attitude and some of the important things in my life are [The Jedi](
 https://www.google.com.au/search?q=jedi+master&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiZgqHXk9zLAhXkYaYKHW05CB4QsAQIPA&biw=1285&bih=1415){:target="_blank"}, [Barnabus](
 https://en.wikipedia.org/wiki/Barney_Stinson){:target="_blank"} Barney Stinson, [The Bro from Seinfeld](

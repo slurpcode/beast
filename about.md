@@ -229,8 +229,8 @@ http://www.opera.com/){:target="_blank"}
 ![The Beast Style](/images/HonorBreakdown.png)
 
 
-**The Beast cloc Style**
-========================
+**Hey Ladies, A Large Powerful Cloc**
+=====================================
 ```
 http://cloc.sourceforge.net v 1.64  T=36.76 s (74.3 files/s, 69769.0 lines/s)
 -------------------------------------------------------------------------------

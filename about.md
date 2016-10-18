@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey my name is John Bampton, well actually some people call me The Beast,  [The Beast 234 Style](https://www.codewars.com/users/Beast/site-events){:target="_blank"} (disclaimer number subject to change) or just Beast for short.  Deep down inside I'm a truly magical and wondrous Beast. I live in [BrisVegas](https://en.wikipedia.org/wiki/Brisbane){:target="_blank"}, well that's what we call Brisbane here.
+Hey my name is John Bampton, well actually some people call me The Beast,  [The Beast 234 Style](https://www.codewars.com/users/Beast/site-events){:target="_blank"} (disclaimer number subject to change) or just Beast for short.  Deep down inside I'm a truly magical and wondrous Beast. I live in [BrisVegas](https://en.wikipedia.org/wiki/Brisbane){:target="_blank"}, well that's what we call Brisbane here and I've been working for over 3 years now on a large California based software project in the energy sector.  
 I have a live by the keyboard, die by the keyboard kind of attitude and some of the important things in my life are [The Jedi](
 https://www.google.com.au/search?q=jedi+master&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiZgqHXk9zLAhXkYaYKHW05CB4QsAQIPA&biw=1285&bih=1415){:target="_blank"}, [Barnabus](
 https://en.wikipedia.org/wiki/Barney_Stinson){:target="_blank"} Barney Stinson, [The Bro from Seinfeld](
@@ -228,3 +228,31 @@ http://www.opera.com/){:target="_blank"}
 =====================
 
 ![The Beast Style](/images/HonorBreakdown.png)
+
+
+**The Beast cloc Style**
+========================
+```
+http://cloc.sourceforge.net v 1.64  T=36.76 s (74.3 files/s, 69769.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+XML                            542            553           1614         937222
+XSD                           1116         103260             59         792889
+XSLT                           894          17192           2432         563727
+HTML                            44            576             13         106435
+Javascript                      34           3978           2671          18618
+CSS                              4              7             24           7326
+Ruby                            26            312             61           1450
+Visual Basic                    22            302            388           1210
+XQuery                          12            152              4            992
+MSBuild script                   4              0             28            456
+JSON                             9              0              0            228
+ASP.Net                          6              0              0            126
+DOS Batch                       16              0              0             48
+YAML                             3              9              0             30
+-------------------------------------------------------------------------------
+SUM:                          2732         126341           7294        2430757
+-------------------------------------------------------------------------------
+```
+

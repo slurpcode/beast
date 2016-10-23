@@ -15,13 +15,15 @@ https://www.menulog.com.au/){:target="_blank"} and [Gandalf at dawn on the fifth
 http://www.amc.com/shows/the-walking-dead){:target="_blank"} and I sometimes enjoy [Friday Night Football](
 http://www.nrl.com/){:target="_blank"} and my favorite new toy is [Atom](https://atom.io/){:target="_blank"} where I am currently typing some of this.
 
-So by now you must already be thinking, wow The Beast has a Jekyll powered GitHub Pages blog with kramdown so he must love Ruby..!?!?!!?
+I am currently building a [mobile first](https://responsivedesign.is/strategy/page-layout/mobile-first){:target="_blank"}  responsive designed analytics dashboard website powered mostly by Ruby and JavaScript and it currently has 661 different 3D interactive pie charts. The data for the 661 charts was obtained from data mining and grouping data in many different ways to produce a powerful visual analytics solution.  Regular expressions were also used in some parts of the analytics dashboard script along with [Google charts](https://developers.google.com/chart/){:target="_blank"} JavaScript library to render the charts. The analytics dashboard website is now 18 web pages of charts.  
+
+So by now you must already be thinking, wow The Beast also has a Jekyll powered GitHub Pages blog with kramdown so he must love Ruby..!?!?!!?
 
 **Some of the cool tech I am interested in or I know about**
 ======================================================
 
 - [Ruby](https://www.ruby-lang.org/en/){:target="_blank"}, [PHP](
-http://php.net/){:target="_blank"}, [Javascript](
+http://php.net/){:target="_blank"}, [JavaScript](
 https://en.wikipedia.org/wiki/JavaScript){:target="_blank"}, [Python](
 https://www.python.org/){:target="_blank"}
 

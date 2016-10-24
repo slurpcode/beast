@@ -2,7 +2,9 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading"></h2>
+    <h2 class="footer-heading">
+      <p><a href="https://www.codewars.com/users/Beast" target="_blank"><img src="https://www.codewars.com/users/Beast/badges/large" alt="Codewars Beast"></a></p>
+    </h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
@@ -10,10 +12,12 @@
           <li></li>
           <li></li>
         </ul>
-        <p>{{ site.last_update }}{{ site.time }}</p>
+        <div id="chart_div_developer_name"></div>
+        <div id="chart_div_all"></div>
       </div>
 
       <div class="footer-col footer-col-2">
+        <p>{{ site.description }}</p>
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
@@ -27,11 +31,7 @@
           </li>
           {% endif %}
         </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-        
+        <p>{{ site.last_update }}{{ site.time }}</p>
       </div>
     </div>
 

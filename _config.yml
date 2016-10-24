@@ -20,3 +20,5 @@ github_username:  jbampton
 
 # Build settings
 markdown: kramdown
+gems:
+  - jemoji

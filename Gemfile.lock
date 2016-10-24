@@ -124,6 +124,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jemoji
   wdm (>= 0.1.0)
 
 BUNDLED WITH

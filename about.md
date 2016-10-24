@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey my name is John Bampton, well actually some people call me The Beast,  [The Beast 240+ Style](https://www.codewars.com/users/Beast/site-events){:target="_blank"} (disclaimer number subject to change), The Beast T-661 (also known as a Prototype Series 661 Terminator - a shapeshifting Ruby assassin) or just Beast for short.  Deep down inside I'm a truly magical and wondrous Beast. I live in [BrisVegas](https://en.wikipedia.org/wiki/Brisbane){:target="_blank"}, well that's what we call Brisbane here and I've been working for over 3 years now on a large California based software project in the energy sector.  I have a live by the keyboard, die by the keyboard kind of attitude and some of the important things in my life are [The Jedi](
+Hey my name is John Bampton, well actually some people call me The Beast,  [The Beast 240+ Style](https://www.codewars.com/users/Beast/site-events){:target="_blank"} (disclaimer number subject to change), The Beast T-661 (Prototype Series 661 Terminator - a shapeshifting Ruby assassin) or just Beast for short.  Deep down inside I'm a truly magical and wondrous Beast. I live in [BrisVegas](https://en.wikipedia.org/wiki/Brisbane){:target="_blank"}, well that's what we call Brisbane here and I've been working for over 3 years now on a [large California based software project](http://bees.archenergy.com/){:target="_blank"} in the energy sector.  I have a live by the keyboard, die by the keyboard kind of attitude and some of the important things in my life are [The Jedi](
 https://www.google.com.au/search?q=jedi+master&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiZgqHXk9zLAhXkYaYKHW05CB4QsAQIPA&biw=1285&bih=1415){:target="_blank"}, [Barnabus](
 https://en.wikipedia.org/wiki/Barney_Stinson){:target="_blank"} Barney Stinson, [The Bro from Seinfeld](
 https://www.google.com.au/search?q=seinfeld+the+bro&espv=2&biw=1285&bih=1415&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjhtLvDlNzLAhWC5qYKHczfC3cQsAQIIw){:target="_blank"}....[no soup for you](
@@ -15,7 +15,7 @@ https://www.menulog.com.au/){:target="_blank"} and [Gandalf at dawn on the fifth
 http://www.amc.com/shows/the-walking-dead){:target="_blank"} and I sometimes enjoy [Friday Night Football](
 http://www.nrl.com/){:target="_blank"} and my favorite new toy is [Atom](https://atom.io/){:target="_blank"} where I am currently typing some of this.
 
-I am currently building a [mobile first](https://responsivedesign.is/strategy/page-layout/mobile-first){:target="_blank"}  [responsive designed](https://en.wikipedia.org/wiki/Responsive_web_design){:target="_blank"} analytics dashboard website powered mostly by Ruby and JavaScript and it currently has 17 webpages and 661 different 3D interactive pie charts. The data for the 661 charts was obtained from [text data mining](https://en.wikipedia.org/wiki/Text_mining){:target="_blank"} and grouping data in many different ways to produce a powerful visual analytics solution.  Regular expressions and [concatenation](https://en.wikipedia.org/wiki/Concatenation){:target="_blank"} were also used in some parts of the analytics dashboard script along with [Google charts](https://developers.google.com/chart/){:target="_blank"} JavaScript library to render the charts.
+I am currently building a [mobile first](https://responsivedesign.is/strategy/page-layout/mobile-first){:target="_blank"}  [responsive designed](https://en.wikipedia.org/wiki/Responsive_web_design){:target="_blank"} analytics dashboard website powered mostly by Ruby and JavaScript and it currently has 18 webpages and 661 different 3D interactive pie charts. The data for the 661 charts was obtained from [text data mining](https://en.wikipedia.org/wiki/Text_mining){:target="_blank"} and grouping data in many different ways to produce a powerful visual analytics solution.  Regular expressions and [concatenation](https://en.wikipedia.org/wiki/Concatenation){:target="_blank"} were also used in some parts of the analytics dashboard script along with [Google charts](https://developers.google.com/chart/){:target="_blank"} JavaScript library to render the charts.
 
 So by now you must already be thinking, wow The Beast also has a Jekyll powered GitHub Pages blog with kramdown so he must love Ruby..!?!?!!?
 
@@ -234,17 +234,17 @@ http://www.opera.com/){:target="_blank"}
 **Hey Ladies, A Large Powerful Cloc**
 =====================================
 ```
-http://cloc.sourceforge.net v 1.64  T=35.99 s (76.3 files/s, 71903.4 lines/s)
+http://cloc.sourceforge.net v 1.64  T=35.99 s (76.4 files/s, 71914.6 lines/s)
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
 XML                            542            553           1614         937222
 XSD                           1116         103260             59         792889
 XSLT                           894          17192           2432         563727
-HTML                            60           5387            221         124381
+HTML                            61           5653            234         124466
 Javascript                      34           3978           2671          18618
 CSS                              4              7             24           7326
-Ruby                            26            337            136           1961
+Ruby                            26            343            142           1728
 Visual Basic                    22            302            388           1210
 XQuery                          12            152              4            992
 MSBuild script                   4              0             28            456
@@ -253,7 +253,7 @@ ASP.Net                          6              0              0            126
 DOS Batch                       16              0              0             48
 YAML                             3              9              0             30
 -------------------------------------------------------------------------------
-SUM:                          2748         131177           7577        2449214
+SUM:                          2749         131449           7596        2449066
 -------------------------------------------------------------------------------
 ```
 

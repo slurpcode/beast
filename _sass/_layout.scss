@@ -105,7 +105,7 @@
 .footer-heading {
     font-size: 18px;
     margin-bottom: $spacing-unit / 2 ;
-    text-align: center; 
+    text-align: center;
 }
 
 .contact-list,
@@ -121,6 +121,8 @@
     @extend %clearfix;
 
 }
+
+body { background-color: white;}
 
 .footer-col {
     float: left;
@@ -140,7 +142,7 @@
 }
 
 .footer-col p {
-  color: purple;
+  color: black;
   font-size: 14pt;
 }
 

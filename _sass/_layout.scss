@@ -142,6 +142,7 @@ body { background-color: white;}
     margin-left: 15px;
 }
 
+
 .footer-col p {
   color: black;
   font-size: 14pt;
@@ -154,7 +155,7 @@ pre, .footer-col p {
     white-space: -o-pre-wrap; //opera 7
     word-wrap: break-word; //internet explorer
 }
-
+.footer-col-2 p {white-space: normal}
 
 @include media-query($on-laptop) {
     .footer-col-1,

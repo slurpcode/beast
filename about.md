@@ -15,13 +15,15 @@ https://www.menulog.com.au/){:target="_blank"} and [Gandalf at dawn on the fifth
 http://www.amc.com/shows/the-walking-dead){:target="_blank"} and I sometimes enjoy [Friday Night Football](
 http://www.nrl.com/){:target="_blank"} and my favorite new toy is [Atom](https://atom.io/){:target="_blank"} where I am currently typing some of this.  
 
-Recently I have been eating more :banana::apple::tomato::green_apple::corn::sweet_potato: and less :hamburger::pizza::fries::candy::cookie::icecream::chocolate_bar::cake::lollipop::doughnut: and have managed to lose 4.4 kilograms at the last weigh in.  But I still sometimes enjoy good :curry: and :rice: and the odd delicious :cocktail: and a fine :woman: in a :bikini:.....:dizzy::heartpulse::exclamation::exclamation::exclamation:  
-Sometimes when I am on coding mission i run out of milk from drinking
-so much :coffee: and already by August 2016 I have gone through (no longer using) two Android smart :watch:.
+Recently I have been eating more :banana::apple::tomato::green_apple::corn::sweet_potato: and less :hamburger::pizza::fries::candy::cookie::icecream::chocolate_bar::cake::lollipop::doughnut: and have managed to lose 4.4 kilograms at the last weigh in.  But I still sometimes enjoy good :curry: and :rice: and the odd delicious :cocktail: and a fine :woman: in a :bikini:.....:dizzy::heartpulse::exclamation::exclamation::exclamation:
+
+At times the mandatory worship of [Thaiways](http://www.thaiways-albion.com.au){:target="_blank"} does occur and sometimes
+when I am on coding mission i run out of milk from drinking so much :coffee:.
+Already by August 2016 I have gone through (no longer using) two Android smart :watch: and I sometimes I like to watch the Apple live events.
 
 I am currently building a [mobile first](https://responsivedesign.is/strategy/page-layout/mobile-first){:target="_blank"}  [responsive designed](https://en.wikipedia.org/wiki/Responsive_web_design){:target="_blank"} analytics dashboard website powered mostly by Ruby and JavaScript and it currently has 18 webpages and **661** different **3D interactive pie charts**. The data for the **661** charts was obtained from [text data mining](https://en.wikipedia.org/wiki/Text_mining){:target="_blank"} and grouping data in many different ways to produce a powerful visual analytics solution.  **Regular expressions** and [concatenation](https://en.wikipedia.org/wiki/Concatenation){:target="_blank"} were also used in some parts of the analytics dashboard script along with [Google charts](https://developers.google.com/chart/){:target="_blank"} JavaScript library to render the charts.
 
-So by now you must already be thinking, wow The Beast also has a **Jekyll** powered **GitHub Pages** blog with **kramdown** so he must **LOVE    :kiss::heart: Ruby**.... :bowtie::star::sparkles::muscle::muscle::fist::fist::facepunch::facepunch::collision::boom::exclamation::exclamation:
+So by now you must already be thinking, wow The Beast also has a **Jekyll** powered **GitHub Pages** blog with **kramdown** so he must **LOVE    :kiss::heart: Ruby**.... :bowtie::star::sparkles::muscle::muscle::fist::fist::facepunch::collision::facepunch::boom::exclamation::exclamation:
 
 **Some of the cool tech I am interested in or I know about**
 ======================================================

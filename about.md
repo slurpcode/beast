@@ -21,7 +21,7 @@ so much :coffee: and already by August 2016 I have gone through (no longer using
 
 I am currently building a [mobile first](https://responsivedesign.is/strategy/page-layout/mobile-first){:target="_blank"}  [responsive designed](https://en.wikipedia.org/wiki/Responsive_web_design){:target="_blank"} analytics dashboard website powered mostly by Ruby and JavaScript and it currently has 18 webpages and **661** different **3D interactive pie charts**. The data for the **661** charts was obtained from [text data mining](https://en.wikipedia.org/wiki/Text_mining){:target="_blank"} and grouping data in many different ways to produce a powerful visual analytics solution.  **Regular expressions** and [concatenation](https://en.wikipedia.org/wiki/Concatenation){:target="_blank"} were also used in some parts of the analytics dashboard script along with [Google charts](https://developers.google.com/chart/){:target="_blank"} JavaScript library to render the charts.
 
-So by now you must already be thinking, wow The Beast also has a **Jekyll** powered **GitHub Pages** blog with **kramdown** so he must **LOVE    :kiss::heart: Ruby**....:bowtie::star::sparkles::muscle::muscle::fist::fist::facepunch::punch::facepunch::collision::boom::boom::exclamation::exclamation:
+So by now you must already be thinking, wow The Beast also has a **Jekyll** powered **GitHub Pages** blog with **kramdown** so he must **LOVE    :kiss::heart: Ruby**.... :bowtie::star::sparkles::muscle::muscle::fist::fist::facepunch::facepunch::collision::boom::exclamation::exclamation:
 
 **Some of the cool tech I am interested in or I know about**
 ======================================================

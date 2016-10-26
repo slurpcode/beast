@@ -230,7 +230,8 @@ https://rogueamoeba.com/freebies/soundflower/){:target="_blank"}
 http://xchat.org/){:target="_blank"}, [XChat Azure](
 https://xchataqua.github.io/){:target="_blank"}, [Opera](
 http://www.opera.com/){:target="_blank"}, [Kodi](
-https://en.wikipedia.org/wiki/Kodi_(software)){:target="_blank"}
+https://en.wikipedia.org/wiki/Kodi_(software)){:target="_blank"}, [Who Is On My Wifi](
+https://itunes.apple.com/au/app/who-is-on-my-wifi/id909760813?mt=12){:target="_blank"}
 
 
 **Some Android apps I like**
@@ -238,6 +239,26 @@ https://en.wikipedia.org/wiki/Kodi_(software)){:target="_blank"}
 
 - [Fing - Network Tools](
 https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en){:target="_blank"}
+
+
+**Brand Consulting**
+====================
+
+- [Petra R](https://www.youtube.com/watch?v=JdAqZ1MJN2E){:target="_blank"}
+
+
+**The Beast Style Usability Testing**
+=======================================
+
+- [https://www.youtube.com/watch?v=cD7SqPntlZM](
+https://www.youtube.com/watch?v=cD7SqPntlZM){:target="_blank"}
+
+
+**Hello James D Packer...!??!?!?!!!?!**
+===============================
+
+- [https://www.youtube.com/watch?v=tZdTTZf_hos](
+https://www.youtube.com/watch?v=tZdTTZf_hos){:target="_blank"}
 
 
 **Social**

@@ -98,6 +98,36 @@ https://www.w3.org/Style/CSS/Overview.en.html){:target="_blank"}, [jQuery](
 https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:target="_blank"}  - I try not to focus on the front end.
 
 
+**Places I have worked**
+========================
+
+- **2012-2013**: [IpayOptions](http://www.ipayoptions.com/){:target="_blank"}
+
+- **2012**: [Suna Communications](http://sunacommunications.com/){:target="_blank"}
+
+- **2011**: NEHTA - which is now [Australian Digital Health Agency](http://www.digitalhealth.gov.au/){:target="_blank"}
+
+- **2008**: [InfoMaster](https://www.linkedin.com/company/infomaster){:target="_blank"}
+
+- **2008** [Department of Communities](https://www.communities.qld.gov.au/){:target="_blank"} Queensland State Government
+
+- **2007**: [Department of the Premier and Cabinet](http://www.premiers.qld.gov.au/){:target="_blank"} Queensland State Government
+
+- **2006-2007**: RRIF SEQ - Regulation Reduction Incentive Fund, Sout East Queensland. An Australian Federal Government Project
+
+- **2005-2006**: [TASS.WEB](http://www.tassweb.com.au/){:target="_blank"} - The Alpha School System
+
+- **2005**: [Better Mortgage Management](http://www.bettermm.com.au/){:target="_blank"}
+
+- **2004**: [Data#3](
+  http://www.data3.com/){:target="_blank"} for [Australian Army](http://www.army.gov.au/){:target="_blank"}
+
+- **2004**: [Manpower](http://www.manpower.com.au/){:target="_blank"} for [Hewlett Packard](
+  http://www.hp.com/){:target="_blank"} working at [Amcor](
+  https://www.amcor.com/){:target="_blank"} and [Blake Dawson Waldron](
+  https://en.wikipedia.org/wiki/Ashurst_Australia){:target="_blank"}
+
+
 **I sometimes manage to find work here - I against the millions...**
 ==================
 
@@ -105,11 +135,12 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 
 - [Freelancer](https://www.freelancer.com/u/JohnBampton.html){:target="_blank"}
 
-- [Peopleperhour](http://www.peopleperhour.com/freelancer/john/bampton/multi-language-programming-artisan/175224){:target="_blank"}
+-  [Peopleperhour](http://www.peopleperhour.com/freelancer/john/bampton/multi-language-programming-artisan/175224){:target="_blank"}
 
 - [Guru](http://www.guru.com/freelancers/johnbampton){:target="_blank"}
 
 - [Linkedin](https://au.linkedin.com/pub/john-bampton/0/1a9/784){:target="_blank"}
+
 
 **edX Certificates**
 ====================
@@ -151,8 +182,7 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 **A growing list of tools or software I have used**
 ======================
 
-- [WinMerge](
-http://winmerge.org/?lang=en){:target="_blank"}, [WinSCP](
+- [WinMerge](http://winmerge.org/?lang=en){:target="_blank"}, [WinSCP](
 https://winscp.net/eng/index.php){:target="_blank"}, [WAMP](
 http://www.wampserver.com/en/){:target="_blank"}, [XAMPP](
 https://www.apachefriends.org/index.html){:target="_blank"}, [FileZilla](

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey my name is John Bampton, well actually some people call me **The Beast**,  [The Beast 240+ Style](https://www.codewars.com/users/Beast/site-events){:target="_blank"} (disclaimer number subject to change), **The Beast T-661** (Prototype Series **661** Terminator - a shapeshifting Ruby assassin) or just **Beast** for short.  Deep down inside I'm a truly **magical** and **wondrous Beast**. I live in :sunny: [BrisVegas](https://en.wikipedia.org/wiki/Brisbane){:target="_blank"}, well that's what we call [Brisbane](https://www.brisbane.qld.gov.au/){:target="_blank"} here and I've been working for **over 3 years** now on a [large California :us: based software project](http://bees.archenergy.com/){:target="_blank"} in the energy sector.  I have a live by the keyboard, die by the keyboard, midnight commander :clock12: kind of attitude.  Some of the important things in my life are [The Jedi](
+Hey my name is John Bampton, well actually some people call me **The Beast**,  [The Beast 240+ Style](https://www.codewars.com/users/Beast/site-events){:target="_blank"} (disclaimer number subject to change), **The Beast T-661** (Prototype Series **661** Terminator - a shapeshifting Ruby assassin) or just **Beast** for short.  Deep down inside I'm a truly **magical** and **wondrous Beast**. I live in :sunny: [BrisVegas](https://en.wikipedia.org/wiki/Brisbane){:target="_blank"}, well that's what we call [Brisbane](https://www.brisbane.qld.gov.au/){:target="_blank"} here and I've been working for **over 3 years** now on a [large California :us: based software project](http://bees.archenergy.com/){:target="_blank"} in the energy sector.  I have a live by the keyboard, die by the keyboard, [midnight commander](https://www.midnight-commander.org){:target="_blank"} :clock12: kind of attitude.  Some of the important things in my life are [The Jedi](
 https://www.google.com.au/search?q=jedi+master&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiZgqHXk9zLAhXkYaYKHW05CB4QsAQIPA&biw=1285&bih=1415){:target="_blank"}, [Barnabus](
 https://en.wikipedia.org/wiki/Barney_Stinson){:target="_blank"} Barney Stinson, [The Bro from Seinfeld](
 https://www.google.com.au/search?q=seinfeld+the+bro&espv=2&biw=1285&bih=1415&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjhtLvDlNzLAhWC5qYKHczfC3cQsAQIIw){:target="_blank"}....[no soup for you](
@@ -17,13 +17,11 @@ http://www.nrl.com/){:target="_blank"} and my favorite new toy is [Atom](https:/
 
 Recently I have been eating more :banana::apple::tomato::green_apple::corn::sweet_potato: and less :hamburger::pizza::fries::candy::cookie::icecream::chocolate_bar::cake::lollipop::doughnut: and have managed to lose 4.4 kilograms at the last weigh in.  But I still sometimes enjoy good :curry: and :rice: and the odd delicious :cocktail: and a fine :woman: in a :bikini:.....:dizzy::heartpulse::exclamation::exclamation::exclamation:
 
-At times the mandatory worship of [Thaiways](http://www.thaiways-albion.com.au){:target="_blank"} does occur and sometimes
-when I am on coding mission i run out of milk from drinking so much :coffee:.
-Already by August 2016 I have gone through (no longer using) two Android smart :watch: and I sometimes I like to watch the Apple live events.
+At times the mandatory worship of [Thaiways](http://www.thaiways-albion.com.au){:target="_blank"} does occur and sometimes when I am on [coding mission](https://www.google.com.au/search?q=coding+mission+images&espv=2&biw=1540&bih=1503&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwig5KOr7vjPAhWCoJQKHS_vDRMQsAQIGg#tbm=isch&q=coding+mission){:target="_blank"} i run out of milk from drinking so much :coffee:.  Already by August 2016 I have gone through (no longer using) two Android smart :watch: and I sometimes I like to watch the Apple live events.
 
-I am currently building a [mobile first](https://responsivedesign.is/strategy/page-layout/mobile-first){:target="_blank"}  [responsive designed](https://en.wikipedia.org/wiki/Responsive_web_design){:target="_blank"} analytics dashboard website powered mostly by Ruby and JavaScript and it currently has 18 webpages and **661** different **3D interactive pie charts**. The data for the **661** charts was obtained from [text data mining](https://en.wikipedia.org/wiki/Text_mining){:target="_blank"} and grouping data in many different ways to produce a powerful visual analytics solution.  **Regular expressions** and [concatenation](https://en.wikipedia.org/wiki/Concatenation){:target="_blank"} were also used in some parts of the analytics dashboard script along with [Google charts](https://developers.google.com/chart/){:target="_blank"} JavaScript library to render the charts.
+I am currently building a [mobile first](https://responsivedesign.is/strategy/page-layout/mobile-first){:target="_blank"}  [responsive designed](https://en.wikipedia.org/wiki/Responsive_web_design){:target="_blank"} high powered analytics dashboard website produced mostly from Ruby and JavaScript and it currently has 18 webpages and **661** different **3D interactive pie charts**. The data for the **661** charts was obtained from [text data mining](https://en.wikipedia.org/wiki/Text_mining){:target="_blank"} and grouping data in many different ways to produce a powerful visual analytics solution.  **Regular expressions** and [concatenation](https://en.wikipedia.org/wiki/Concatenation){:target="_blank"} were also used in some parts of the analytics dashboard script along with [Google charts](https://developers.google.com/chart/){:target="_blank"} JavaScript library to render the charts.
 
-So by now you must already be thinking, wow The Beast also has a **Jekyll** powered **GitHub Pages** blog with **kramdown** so he must **LOVE    :kiss::heart: Ruby**.... :bowtie::star::sparkles::muscle::muscle::fist::fist::facepunch::collision::facepunch::boom::exclamation::exclamation:
+So by now you must already be thinking, wow **The Beast** also has a **Jekyll** powered **GitHub Pages** blog with **kramdown** so he must **LOVE    :kiss::heart: Ruby**.... :bowtie::star::sparkles::muscle::muscle::fist::fist::facepunch::collision::facepunch::boom::exclamation::exclamation:
 
 **Some of the cool tech I am interested in or I know about**
 ======================================================
@@ -128,14 +126,15 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
   https://en.wikipedia.org/wiki/Ashurst_Australia){:target="_blank"}
 
 
-**I sometimes manage to find work here - I against the millions...**
+**I sometimes manage to find work here - I against the millions...?!?!??!!**
 ==================
 
 - [Upwork](https://www.upwork.com/o/profiles/users/_~015e56316c3aa9a286/){:target="_blank"}
 
 - [Freelancer](https://www.freelancer.com/u/JohnBampton.html){:target="_blank"}
 
--  [Peopleperhour](http://www.peopleperhour.com/freelancer/john/bampton/multi-language-programming-artisan/175224){:target="_blank"}
+- [Peopleperhour](
+  http://www.peopleperhour.com/freelancer/john/bampton/multi-language-programming-artisan/175224){:target="_blank"}
 
 - [Guru](http://www.guru.com/freelancers/johnbampton){:target="_blank"}
 
@@ -192,7 +191,8 @@ https://desktop.github.com/){:target="_blank"}, [Bitbucket](
 https://bitbucket.org/){:target="_blank"}, [JIRA](
 https://www.atlassian.com/software/jira){:target="_blank"}, [Confluence](
 https://www.atlassian.com/software/confluence){:target="_blank"}, [FishEye](
-https://www.atlassian.com/software/fisheye){:target="_blank"}, [Bitnami](
+https://www.atlassian.com/software/fisheye){:target="_blank"}, [HipChat](
+https://www.hipchat.com){:target="_blank"}, [Bitnami](
 https://bitnami.com/stacks){:target="_blank"}, [SeaMonkey](
 http://www.seamonkey-project.org/){:target="_blank"}, [eXistdb](
 http://exist-db.org/exist/apps/homepage/index.html){:target="_blank"}, [BaseX](
@@ -216,7 +216,8 @@ https://www.avira.com){:target="_blank"}, [ClamAV](
 https://www.clamav.net){:target="_blank"}, [Avast](
 https://www.avast.com){:target="_blank"}, [CoffeeScript](
 http://coffeescript.org/){:target="_blank"}, [Lynx](
-https://en.wikipedia.org/wiki/Lynx_(web_browser)){:target="_blank"}
+https://en.wikipedia.org/wiki/Lynx_(web_browser)){:target="_blank"}, [cloc](
+https://github.com/AlDanial/cloc){:target="_blank"}
 
 
 **Some of my favorite programs**

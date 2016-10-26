@@ -217,7 +217,10 @@ https://www.clamav.net){:target="_blank"}, [Avast](
 https://www.avast.com){:target="_blank"}, [CoffeeScript](
 http://coffeescript.org/){:target="_blank"}, [Lynx](
 https://en.wikipedia.org/wiki/Lynx_(web_browser)){:target="_blank"}, [cloc](
-https://github.com/AlDanial/cloc){:target="_blank"}
+https://github.com/AlDanial/cloc){:target="_blank"}, [LimeChat](
+http://limechat.net/mac/){:target="_blank"}, [XQuartz](
+https://www.xquartz.org/){:target="_blank"}, [Soundflower](
+https://rogueamoeba.com/freebies/soundflower/){:target="_blank"}
 
 
 **Some of my favorite programs**
@@ -226,7 +229,15 @@ https://github.com/AlDanial/cloc){:target="_blank"}
 - [VLC](http://www.videolan.org/){:target="_blank"}, [XChat](
 http://xchat.org/){:target="_blank"}, [XChat Azure](
 https://xchataqua.github.io/){:target="_blank"}, [Opera](
-http://www.opera.com/){:target="_blank"}
+http://www.opera.com/){:target="_blank"}, [Kodi](
+https://en.wikipedia.org/wiki/Kodi_(software)){:target="_blank"}
+
+
+**Some Android apps I like**
+===========================
+
+- [Fing - Network Tools](
+https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en){:target="_blank"}
 
 
 **Social**
@@ -261,6 +272,7 @@ http://www.opera.com/){:target="_blank"}
 - [Woorank](https://www.woorank.com/){:target="_blank"}
 
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/){:target="_blank"}
+
 
 **The Beast Style**
 =====================

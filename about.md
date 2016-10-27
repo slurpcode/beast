@@ -129,6 +129,15 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
   https://en.wikipedia.org/wiki/Ashurst_Australia){:target="_blank"}
 
 
+**Places I have worked (a long time ago unsure of dates) non-IT jobs**
+=======================================================================
+
+- [Australia Post](https://auspost.com.au/){:target="_blank"}
+- [Treasury Casino](https://www.treasurybrisbane.com.au/){:target="_blank"}
+- [The Gap Tavern](https://www.gaptavern.com.au/){:target="_blank"}
+- I was also a mystery shopper (unsure of the company name)
+
+
 **I sometimes manage to find work here - I against the millions...?!?!??!!**
 ==================
 

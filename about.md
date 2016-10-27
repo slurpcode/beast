@@ -272,6 +272,14 @@ https://www.youtube.com/watch?v=tZdTTZf_hos){:target="_blank"}
 
 - [Twitter](https://twitter.com/johnbampton){:target="_blank"}
 
+- [Instagram](https://www.instagram.com/johnbampton/){:target="_blank"}
+
+- [myspace](https://myspace.com/johnbampton){:target="_blank"}
+
+- [Tumblr](http://johnbampton.tumblr.com/){:target="_blank"}
+
+- [Pinterest](https://au.pinterest.com/johnbampton/){:target="_blank"}
+
 
 **Some of my favorite websites**
 ===============================

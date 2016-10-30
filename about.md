@@ -24,6 +24,11 @@ https://www.ruby-toolbox.com/){:target="_blank"} or [Python.org](https://www.pyt
 
 I am currently building a [mobile first](https://responsivedesign.is/strategy/page-layout/mobile-first){:target="_blank"}  [responsive designed](https://en.wikipedia.org/wiki/Responsive_web_design){:target="_blank"} high powered analytics dashboard website produced mostly from Ruby and JavaScript and it currently has 18 webpages and **661** different **3D interactive pie charts**. The data for the **661** charts was obtained from [text data mining](https://en.wikipedia.org/wiki/Text_mining){:target="_blank"} and grouping data in many different ways to produce a powerful visual analytics solution.  **Regular expressions** and [concatenation](https://en.wikipedia.org/wiki/Concatenation){:target="_blank"} were also used in some parts of the analytics dashboard script along with [Google charts](https://developers.google.com/chart/){:target="_blank"} JavaScript library to render the charts.
 
+**Dwayne Johnson** aka [The Rock](https://twitter.com/TheRock){:target="_blank"} **Barack Obama**'s top take down man once tried to ambush **The Beast** in an attempt to win his first round against **The Beast** in the ongoing battle between **Barack Obama's two first men...?!?!?**  In this instance **The Beast** out smarted **The Rock** with a simple Street Fighter **Sonic Boom...!?!?!?**  The Beast offered to parlay with The Rock and offered him intensive training in **computational mathematics** so that **The Rock** could reach his **highest potential...?!?!?!!!**
+
+A **top secret** source at **Microsoft** told me that the recent **Skype hacking** was traced back to an **elite hacker** whose handle was **[#Obama](https://twitter.com/BarackObama){:target="_blank"}**.
+
+
 So by now you must already be thinking, wow **The Beast** also has a **Jekyll** powered **GitHub Pages** blog with **kramdown** so he must **LOVE    :kiss::heart: Ruby**.... :bowtie::star::sparkles::muscle::muscle::fist::fist::facepunch::collision::facepunch::boom::exclamation::exclamation:
 
 **Some of the cool tech I am interested in or I know about**

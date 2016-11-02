@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<img src="/images/thebeast.png" alt="The Beast" class="thebeast"> Hey my name is [John Bampton](https://www.google.com.au/search?q=john+bampton+brisbane&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=1U4RWP7sN9DN8gejmoLwDA#q=john+bampton+brisbane&pws=0&gfe_rd=cr){:target="_blank"}, well actually some people call me **The Beast**,  [The Beast 250+ Style](https://www.codewars.com/users/Beast/site-events){:target="_blank"} (disclaimer number subject to change), **The Beast T-661** (Prototype Series **661** Terminator - a shapeshifting Ruby Assassin) or just **Beast** for short.  Deep down inside I'm a truly **magical** and **wondrous Beast**. I live in :sunny: [BrisVegas](https://en.wikipedia.org/wiki/Brisbane){:target="_blank"}, well that's what we call [Brisbane](https://www.brisbane.qld.gov.au/){:target="_blank"} here and I've been working for **over 3 years** now on a [large California :us: based software project](http://bees.archenergy.com/){:target="_blank"} (Thanks **Barack** my **Main Man Obama** for the paycheck, I can try to fit you into my calendar if you want to discuss all things **Beast** and **world domination** as I know you are an avid reader of my personal **Beast** website....!?!?!) in the energy sector. In fact a top California based [sensei](https://www.google.com.au/search?q=sensei&espv=2&biw=1594&bih=1503&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiy6IqOpYrQAhXEFJQKHUOMAToQ_AUIBigB){:target="_blank"} has trained **The Beast** in most of [Ken's Special Attacks](http://streetfighter.wikia.com/wiki/Category:Ken's_Special_Attacks){:target="_blank"}.
+<img src="/images/thebeast.png" alt="The Beast" class="thebeast">
+<a id="top"></a> Hey my name is [John Bampton](https://www.google.com.au/search?q=john+bampton+brisbane&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=1U4RWP7sN9DN8gejmoLwDA#q=john+bampton+brisbane&pws=0&gfe_rd=cr){:target="_blank"}, well actually some people call me **The Beast**,  [The Beast 250+ Style](https://www.codewars.com/users/Beast/site-events){:target="_blank"} (disclaimer number subject to change), **The Beast T-661** (Prototype Series **661** Terminator - a shapeshifting Ruby Assassin) or just **Beast** for short.  Deep down inside I'm a truly **magical** and **wondrous Beast**. I live in :sunny: [BrisVegas](https://en.wikipedia.org/wiki/Brisbane){:target="_blank"}, well that's what we call [Brisbane](https://www.brisbane.qld.gov.au/){:target="_blank"} here and I've been working for **over 3 years** now on a [large California :us: based software project](http://bees.archenergy.com/){:target="_blank"} (Thanks **Barack** my **Main Man Obama** for the paycheck, I can try to fit you into my calendar if you want to discuss all things **Beast** and **world domination** as I know you are an avid reader of my personal **Beast** website....!?!?!) in the energy sector. In fact a top California based [sensei](https://www.google.com.au/search?q=sensei&espv=2&biw=1594&bih=1503&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiy6IqOpYrQAhXEFJQKHUOMAToQ_AUIBigB){:target="_blank"} has trained **The Beast** in most of [Ken's Special Attacks](http://streetfighter.wikia.com/wiki/Category:Ken's_Special_Attacks){:target="_blank"}.
 
 I have a live by the keyboard, :computer: die by the keyboard, [midnight commander](https://www.midnight-commander.org){:target="_blank"} :clock12: kind of attitude.  Some of the important things in my life are [The Jedi](
 https://www.google.com.au/search?q=jedi+master&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiZgqHXk9zLAhXkYaYKHW05CB4QsAQIPA&biw=1285&bih=1415){:target="_blank"}, [Barnabus](
@@ -30,8 +31,9 @@ I am currently building a [mobile first](https://responsivedesign.is/strategy/pa
 
 A **top secret** source at **Microsoft** told me that the recent **Skype hacking** was traced back to an **[elite special forces style hacker](https://www.google.com.au/search?q=elite+special+forces+images&espv=2&biw=1542&bih=1397&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiH69yyr4HQAhVGjJQKHeNdBYwQ_AUIBigB#tbm=isch&q=elite+special+forces){:target="_blank"}** whose handle was **[#Obama](https://twitter.com/BarackObama){:target="_blank"}** with **obvious US government military technology backing**. At first the obvious candidate for the **cyber criminal** was **[Brucey Willis](https://twitter.com/bruceywillis?lang=en){:target="_blank"}** (also known as **[John McClane](https://www.google.com.au/search?q=john+mcclane&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj9x6bR_ILQAhWEp5QKHToiDXUQ_AUICCgB&biw=1542&bih=1440){:target="_blank"}**) with his **decorated** USA commando military experience and [knowledge of terrorism](https://www.google.com.au/search?q=john+mcclane&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj9x6bR_ILQAhWEp5QKHToiDXUQ_AUICCgB&biw=1542&bih=1440#tbm=isch&q=die+hard+terrorists){:target="_blank"} in general and his general non stop take on 15 guys at once without breaking a sweat attitude [Bruce Lee Style](https://www.google.com.au/search?q=john+mcclane&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj9x6bR_ILQAhWEp5QKHToiDXUQ_AUICCgB&biw=1542&bih=1440#tbm=isch&q=bruce+lee+){:target="_blank"}....!??!?!
 
-
 So by now you must already be thinking, wow **The Beast** also has a **Jekyll** powered **GitHub Pages** blog with **kramdown** so he must **LOVE    :kiss::heart: Ruby**.... :bowtie::star::sparkles::muscle::muscle::fist::fist::facepunch::collision::facepunch::boom::exclamation::exclamation:
+
+[&#8593;](#top) [&#8595;](#theend)
 
 **Some of the cool tech I am interested in or I know about**
 ======================================================
@@ -105,6 +107,7 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5){:target="_blank"}
 https://www.w3.org/Style/CSS/Overview.en.html){:target="_blank"}, [jQuery](
 https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:target="_blank"}  - I try not to focus on the front end.
 
+[&#8593;](#top) [&#8595;](#theend)
 
 **Places I have worked**
 ========================
@@ -135,6 +138,7 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
   https://www.amcor.com/){:target="_blank"} and [Blake Dawson Waldron](
   https://en.wikipedia.org/wiki/Ashurst_Australia){:target="_blank"}
 
+[&#8593;](#top) [&#8595;](#theend)
 
 **Places I have worked (a long time ago unsure of dates) non-IT jobs**
 =======================================================================
@@ -144,6 +148,7 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 - [The Gap Tavern](https://www.gaptavern.com.au/){:target="_blank"}
 - I was also a mystery shopper (unsure of the company name)
 
+[&#8593;](#top) [&#8595;](#theend)
 
 **I sometimes manage to find work here - I against the millions...?!?!??!!**
 ==================
@@ -159,6 +164,7 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 
 - [Linkedin](https://au.linkedin.com/pub/john-bampton/0/1a9/784){:target="_blank"}
 
+[&#8593;](#top) [&#8595;](#theend)
 
 **edX Certificates**
 ====================
@@ -172,6 +178,8 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 - [SchoolYourself - AlgebraX: Introduction to Algebra](https://courses.edx.org/certificates/f6dbf8dcff354947aff06153b5fb8462){:target="_blank"}
 
 - [SchoolYourself - GeometryX: Introduction to Geometry](https://courses.edx.org/certificates/f05e37b1e8a347b4bc001a2fb063210a){:target="_blank"}
+
+[&#8593;](#top) [&#8595;](#theend)
 
 **Kung Fu Training, Praying Mantis Style, Channeling The Inner Beast**
 ===================
@@ -196,6 +204,7 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 
 - [HackerRank](https://www.hackerrank.com/JohnBampton){:target="_blank"}
 
+[&#8593;](#top) [&#8595;](#theend)
 
 **A growing list of tools or software I have used**
 ======================
@@ -242,6 +251,7 @@ https://www.xquartz.org/){:target="_blank"}, [Soundflower](
 https://rogueamoeba.com/freebies/soundflower/){:target="_blank"}, [Notepad++](
 https://notepad-plus-plus.org/){:target="_blank"}
 
+[&#8593;](#top) [&#8595;](#theend)
 
 **Some other RubyGems I have used**
 ====================================
@@ -256,6 +266,7 @@ https://notepad-plus-plus.org/){:target="_blank"}
 - [prawn](https://rubygems.org/gems/prawn){:target="_blank"}
 - [prawn-table](https://rubygems.org/gems/prawn-table){:target="_blank"}
 
+[&#8593;](#top) [&#8595;](#theend)
 
 **Some of my favorite programs**
 =============================
@@ -267,6 +278,7 @@ http://www.opera.com/){:target="_blank"}, [Kodi](
 https://en.wikipedia.org/wiki/Kodi_(software)){:target="_blank"}, [Who Is On My Wifi](
 https://itunes.apple.com/au/app/who-is-on-my-wifi/id909760813?mt=12){:target="_blank"}
 
+[&#8593;](#top) [&#8595;](#theend)
 
 **Some Android apps I like**
 ===========================
@@ -274,12 +286,14 @@ https://itunes.apple.com/au/app/who-is-on-my-wifi/id909760813?mt=12){:target="_b
 - [Fing - Network Tools](
 https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en){:target="_blank"}
 
+[&#8593;](#top) [&#8595;](#theend)
 
 **Brand Consulting**
 ====================
 
 - [Petra R](https://www.youtube.com/watch?v=JdAqZ1MJN2E){:target="_blank"}
 
+[&#8593;](#top) [&#8595;](#theend)
 
 **The Beast Style Usability Testing**
 =======================================
@@ -287,6 +301,7 @@ https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en){:
 - [https://www.youtube.com/watch?v=cD7SqPntlZM](
 https://www.youtube.com/watch?v=cD7SqPntlZM){:target="_blank"}
 
+[&#8593;](#top) [&#8595;](#theend)
 
 **Hello James D Packer...!??!?!?!!!?!**
 ===============================
@@ -294,6 +309,7 @@ https://www.youtube.com/watch?v=cD7SqPntlZM){:target="_blank"}
 - [https://www.youtube.com/watch?v=tZdTTZf_hos](
 https://www.youtube.com/watch?v=tZdTTZf_hos){:target="_blank"}
 
+[&#8593;](#top) [&#8595;](#theend)
 
 **Social**
 =====================
@@ -314,6 +330,7 @@ https://www.youtube.com/watch?v=tZdTTZf_hos){:target="_blank"}
 
 - [Pinterest](https://au.pinterest.com/johnbampton/){:target="_blank"}
 
+[&#8593;](#top) [&#8595;](#theend)
 
 **Some of my favorite websites**
 ===============================
@@ -336,12 +353,14 @@ https://www.youtube.com/watch?v=tZdTTZf_hos){:target="_blank"}
 
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/){:target="_blank"}
 
+[&#8593;](#top) [&#8595;](#theend)
 
 **The Beast Style**
 =====================
 
 ![The Beast Style](/images/HonorBreakdown.png)
 
+[&#8593;](#top) [&#8595;](#theend)
 
 **Hey Ladies, A Large Powerful Cloc**
 =====================================
@@ -368,3 +387,5 @@ YAML                             3              9              0             30
 SUM:                          2749         131449           7596        2449066
 -------------------------------------------------------------------------------
 ```
+
+[&#8593;](#top)

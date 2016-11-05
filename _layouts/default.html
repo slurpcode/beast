@@ -41,15 +41,18 @@
           chart.draw(data, options);
         }
         function drawChartAll() {
+          // Create the data table.
           var data = new google.visualization.DataTable();
           data.addColumn('string', 'File type');
           data.addColumn('number', 'Counts');
-          data.addRows([["folders", 393], [".xsl", 894], [".pdf", 460], [".xml", 542], [".xsd", 1116], [".html", 61], [".rb", 26], [".zip", 6], [".mp4", 3], [".bat", 16], [".js-master", 3], [".json", 9], [".js", 34], [".md", 33], [".txt", 29], [".png", 27], [".csv", 15], [".xquery", 12], [".fo", 4], [".docx", 124], [".xlsx", 19], [".xpr", 3], [".msi", 4], [".006", 3], [".config", 6], [".exe", 2], [".manifest", 2], [".vbproj", 4], [".user", 4], [".vb", 24], [".resx", 6], [".myapp", 4], [".settings", 4], [".sln", 2], [".suo", 2], [".css", 4], [".map", 4], [".eot", 1], [".svg", 1], [".ttf", 1], [".woff", 1], [".woff2", 1], [".log", 1]]);
-          var options = {'title': 'Tuesday 25th October: Whole repository count of files grouped by file type',
+          data.addRows([["folders", 414], [".xsl", 894], [".pdf", 461], [".xml", 542], [".xsd", 1254], [".html", 83], [".rb", 27], [".zip", 6], [".mp4", 3], [".bat", 16], [".js-master", 3], [".json", 9], [".js", 34], [".md", 33], [".txt", 29], [".png", 34], [".csv", 15], [".xquery", 12], [".fo", 4], [".docx", 124], [".xlsx", 19], [".xpr", 3], [".msi", 4], [".006", 3], [".config", 6], [".exe", 2], [".manifest", 2], [".vbproj", 4], [".user", 4], [".vb", 24], [".resx", 6], [".myapp", 4], [".settings", 4], [".sln", 2], [".suo", 2], [".css", 11], [".map", 4], [".eot", 1], [".svg", 1], [".ttf", 1], [".woff", 1], [".woff2", 1], [".gif", 105], [".jpeg", 7183], [".jpg", 7], [".log", 1]]);
+          // Set chart options
+          var options = {'title': 'Sunday the 6th of November: Whole repository count of files grouped by file type',
                          is3D: true,
                          'width': 400,
                          'height': 330,
                          'titleTextStyle': { 'color': 'black' } };
+          // Instantiate and draw our chart, passing in some options.
           var chart = new google.visualization.PieChart(document.getElementById('chart_div_all'));
           chart.draw(data, options);
         }

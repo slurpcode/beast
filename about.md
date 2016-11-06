@@ -122,6 +122,8 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 
 - **2008**: [Department of Communities](https://www.communities.qld.gov.au/){:target="_blank"} Queensland State Government
 
+- **2007**: [Brisbane City Council](https://www.brisbane.qld.gov.au/){:target="_blank"}
+
 - **2007**: [Department of the Premier and Cabinet](http://www.premiers.qld.gov.au/){:target="_blank"} Queensland State Government
 
 - **2006-2007**: RRIF SEQ - Regulation Reduction Incentive Fund, South East Queensland. An Australian Federal Government Project

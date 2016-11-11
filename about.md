@@ -255,18 +255,21 @@ https://notepad-plus-plus.org/){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
 
-**Some other RubyGems I have used**
+**RubyGems I have been using lately**
 ====================================
 
 - [Nokogiri](http://www.nokogiri.org/){:target="_blank"}
-- [rubocop](https://github.com/bbatsov/rubocop){:target="_blank"}
 - [github/pages-gem](https://github.com/github/pages-gem){:target="_blank"}
+- [Jekyll](https://jekyllrb.com/){:target="_blank"}
+- [kramdown](http://kramdown.gettalong.org/){:target="_blank"}
+- [rubocop](https://github.com/bbatsov/rubocop){:target="_blank"}
 - [rmagick](https://rubygems.org/gems/rmagick/versions/2.15.4){:target="_blank"}
 - [jemoji](https://rubygems.org/gems/jemoji){:target="_blank"}
 - [bundler](https://rubygems.org/gems/bundler){:target="_blank"}
 - [fileutils](https://rubygems.org/gems/fileutils/versions/0.7){:target="_blank"}
 - [prawn](https://rubygems.org/gems/prawn){:target="_blank"}
 - [prawn-table](https://rubygems.org/gems/prawn-table){:target="_blank"}
+- [saxon-xslt](https://rubygems.org/gems/saxon-xslt/versions/0.5.1-java){:target="_blank"} 
 
 [&#8593;](#top) [&#8595;](#theend)
 

@@ -253,7 +253,9 @@ https://github.com/AlDanial/cloc){:target="_blank"}, [LimeChat](
 http://limechat.net/mac/){:target="_blank"}, [XQuartz](
 https://www.xquartz.org/){:target="_blank"}, [Soundflower](
 https://rogueamoeba.com/freebies/soundflower/){:target="_blank"}, [Notepad++](
-https://notepad-plus-plus.org/){:target="_blank"}
+https://notepad-plus-plus.org/){:target="_blank"}, [Google Chrome Canary](
+https://www.google.com.au/chrome/browser/canary.html){:target="_blank"}, [Firefox Developer Edition](
+https://www.mozilla.org/en-US/firefox/developer/){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

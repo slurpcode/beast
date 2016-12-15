@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <img src="/images/thebeast.png" alt="The Beast" class="thebeast">
-<a id="top"></a> Hey my name is [John Bampton](https://www.google.com.au/search?q=john+bampton+brisbane&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=1U4RWP7sN9DN8gejmoLwDA#q=john+bampton+brisbane&pws=0&gfe_rd=cr){:target="_blank"}, well actually some people call me **The Beast**, **The CTO Beast**,  [The Beast 270+  Style](https://www.codewars.com/users/Beast/site-events){:target="_blank"} (disclaimer number subject to change), **The Beast T-721** (Prototype Series **721** Terminator - a shapeshifting **Ruby** Assassin) or just **Beast** for short.  **Deep down** inside I'm a truly **magical** and **wondrous Beast**. I live in :sunny: [BrisVegas](https://en.wikipedia.org/wiki/Brisbane){:target="_blank"}, well that's what we call [Brisbane](https://www.brisbane.qld.gov.au/){:target="_blank"} here and I've been working for **over 3 years** now on a [large California :us: based software project](http://bees.archenergy.com/){:target="_blank"} (Thanks **Barack** my **Main Man Obama** for the paycheck, I can try to fit you into my calendar if you want to discuss all things **Beast** and **world domination** as I know you are an avid reader of my personal **Beast** website....!?!?!) in the energy sector. In fact a top California based [sensei](https://www.google.com.au/search?q=sensei&espv=2&biw=1594&bih=1503&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiy6IqOpYrQAhXEFJQKHUOMAToQ_AUIBigB){:target="_blank"} has trained **The Beast** in most of [Ken's Special Attacks](http://streetfighter.wikia.com/wiki/Category:Ken's_Special_Attacks){:target="_blank"}.
+<a id="top"></a> Hey my name is [John Bampton](https://www.google.com.au/search?q=john+bampton+brisbane&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=1U4RWP7sN9DN8gejmoLwDA#q=john+bampton+brisbane&pws=0&gfe_rd=cr){:target="_blank"}, well actually some people call me **The Beast**, **The CTO Beast**,  [The Beast 275 Style](https://www.codewars.com/users/Beast/site-events){:target="_blank"} (disclaimer number subject to change), **The Beast T-721** (Prototype Series **721** Terminator - a shapeshifting **Ruby** Assassin) or just **Beast** for short.  **Deep down** inside I'm a truly **magical** and **wondrous Beast**. I live in :sunny: [BrisVegas](https://en.wikipedia.org/wiki/Brisbane){:target="_blank"}, well that's what we call [Brisbane](https://www.brisbane.qld.gov.au/){:target="_blank"} here and I've been working for **over 3 years** now on a [large California :us: based software project](http://bees.archenergy.com/){:target="_blank"} (Thanks **Barack** my **Main Man Obama** for the paycheck, I can try to fit you into my calendar if you want to discuss all things **Beast** and **world domination** as I know you are an avid reader of my personal **Beast** website....!?!?!) in the energy sector. In fact a top California based [sensei](https://www.google.com.au/search?q=sensei&espv=2&biw=1594&bih=1503&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiy6IqOpYrQAhXEFJQKHUOMAToQ_AUIBigB){:target="_blank"} has trained **The Beast** in most of [Ken's Special Attacks](http://streetfighter.wikia.com/wiki/Category:Ken's_Special_Attacks){:target="_blank"}.
 
 I have a live by the keyboard, :computer: die by the keyboard, [midnight commander](https://www.midnight-commander.org){:target="_blank"} :clock12: kind of attitude.  Some of the important things in my life are [The Jedi](
 https://www.google.com.au/search?q=jedi+master&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiZgqHXk9zLAhXkYaYKHW05CB4QsAQIPA&biw=1285&bih=1415){:target="_blank"}, [Barnabus](
@@ -18,7 +18,7 @@ https://www.menulog.com.au/){:target="_blank"} and [Gandalf at dawn on the fifth
 http://www.amc.com/shows/the-walking-dead){:target="_blank"} and I sometimes enjoy :football: [Friday Night Football](
 http://www.nrl.com/){:target="_blank"} and my favorite new toy is [Atom](https://atom.io/){:target="_blank"} where I am currently typing some of this.
 
-On the 15th of October 2016 **The Beast** installed [JRuby](http://jruby.org/){:target="_blank"} and now is very tempted to build something [tall blonde and exotic](https://www.google.com.au/search?q=tall+blonde+exotic&espv=2&biw=1536&bih=1503&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiuzKen6vnPAhUBNJQKHYZAB3YQ_AUIBigB#tbm=isch&q=tall+blonde+glamazon+women){:target="_blank"} with the  [saxon-xslt](https://rubygems.org/gems/saxon-xslt/versions/0.7.2-java){:target="_blank"} RubyGem...I mean **The Beast** slays with a powerful XSL and Ruby blended [Lightsaber](https://www.google.com.au/search?q=ruby+lightsaber&espv=2&biw=1536&bih=1503&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjK6NzL6_nPAhWIp5QKHWLVBR8Q_AUIBigB#tbm=isch&q=lightsaber){:target="_blank"} [forged](https://www.google.com.au/search?q=ruby+lightsaber&espv=2&biw=1536&bih=1503&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjK6NzL6_nPAhWIp5QKHWLVBR8Q_AUIBigB#tbm=isch&q=forged+lord+of+the+rings){:target="_blank"} with PHP and JavaScript to create a [weapon of mass destruction](https://www.google.com.au/search?q=ruby+lightsaber&espv=2&biw=1536&bih=1503&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjK6NzL6_nPAhWIp5QKHWLVBR8Q_AUIBigB#tbm=isch&q=weapon+of+mass+destruction){:target="_blank"} so  [powerful](https://www.google.com.au/search?q=ruby+lightsaber&espv=2&biw=1536&bih=1503&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjK6NzL6_nPAhWIp5QKHWLVBR8Q_AUIBigB#tbm=isch&q=one+ring){:target="_blank"} that is wielded with the most elegant (**270**) of touch...:boom::boom::boom::boom::sunglasses::neckbeard:.  In the real world as well sometimes very smart people in California have to come all the way out to **The Beast** in [Australia](https://en.wikipedia.org/wiki/Australia){:target="_blank"} to get their problems solved...this general scenario is now commonly known now as: **Bring Out The Beast !!!?!?!?!?!**....**one beard to rule them all ?!?!?!!**
+On the 15th of October 2016 **The Beast** installed [JRuby](http://jruby.org/){:target="_blank"} and now is very tempted to build something [tall blonde and exotic](https://www.google.com.au/search?q=tall+blonde+exotic&espv=2&biw=1536&bih=1503&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiuzKen6vnPAhUBNJQKHYZAB3YQ_AUIBigB#tbm=isch&q=tall+blonde+glamazon+women){:target="_blank"} with the  [saxon-xslt](https://rubygems.org/gems/saxon-xslt/versions/0.7.2-java){:target="_blank"} RubyGem...I mean **The Beast** slays with a powerful XSL and Ruby blended [Lightsaber](https://www.google.com.au/search?q=ruby+lightsaber&espv=2&biw=1536&bih=1503&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjK6NzL6_nPAhWIp5QKHWLVBR8Q_AUIBigB#tbm=isch&q=lightsaber){:target="_blank"} [forged](https://www.google.com.au/search?q=ruby+lightsaber&espv=2&biw=1536&bih=1503&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjK6NzL6_nPAhWIp5QKHWLVBR8Q_AUIBigB#tbm=isch&q=forged+lord+of+the+rings){:target="_blank"} with PHP and JavaScript to create a [weapon of mass destruction](https://www.google.com.au/search?q=ruby+lightsaber&espv=2&biw=1536&bih=1503&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjK6NzL6_nPAhWIp5QKHWLVBR8Q_AUIBigB#tbm=isch&q=weapon+of+mass+destruction){:target="_blank"} so  [powerful](https://www.google.com.au/search?q=ruby+lightsaber&espv=2&biw=1536&bih=1503&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjK6NzL6_nPAhWIp5QKHWLVBR8Q_AUIBigB#tbm=isch&q=one+ring){:target="_blank"} that is wielded with the most elegant (**275**) of touch...:boom::boom::boom::boom::sunglasses::neckbeard:.  In the real world as well sometimes very smart people in California have to come all the way out to **The Beast** in [Australia](https://en.wikipedia.org/wiki/Australia){:target="_blank"} to get their problems solved...this general scenario is now commonly known now as: **Bring Out The Beast !!!?!?!?!?!**....**one beard to rule them all ?!?!?!!**
 
 In the past I have used the [The GNU Privacy Guard](https://www.gnupg.org/){:target="_blank"} and [TOR](https://www.torproject.org/){:target="_blank"} both in various forms including Orbot on my last Android phone.
 
@@ -375,17 +375,17 @@ https://www.youtube.com/watch?v=tZdTTZf_hos){:target="_blank"}
 **Hey Ladies, A Large Powerful Cloc**
 =====================================
 ```
-http://cloc.sourceforge.net v 1.64  T=60.06 s (48.6 files/s, 63671.7 lines/s)
+http://cloc.sourceforge.net v 1.64  T=36.96 s (88.3 files/s, 76652.3 lines/s)
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-HTML                            83           6427          96823        1135591
-XML                            542            553           1614         937222
-XSD                           1254         114892             61         904759
-XSLT                           894          17192           2432         563727
+XML                            667            555           1912         958820
+XSD                           1372         119828             65         942581
+XSLT                          1021          19374           2552         617907
+HTML                            63           5672            234         124866
 Javascript                      34           3978           2671          18618
-CSS                             11            749            556          10287
-Ruby                            27            348            142           1754
+CSS                              4              7             24           7326
+Ruby                            31            348            146           1874
 Visual Basic                    22            302            388           1210
 XQuery                          12            152              4            992
 MSBuild script                   4              0             28            456
@@ -393,8 +393,9 @@ JSON                             9              0              0            228
 ASP.Net                          6              0              0            126
 DOS Batch                       16              0              0             48
 YAML                             3              9              0             30
+Python                           1              5              0             27
 -------------------------------------------------------------------------------
-SUM:                          2917         144602         104719        3575048
+SUM:                          3265         150230           8024        2675109
 -------------------------------------------------------------------------------
 ```
 

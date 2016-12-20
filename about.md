@@ -369,9 +369,9 @@ https://www.youtube.com/watch?v=tZdTTZf_hos){:target="_blank"}
 
 **The Beast Style**
 ====================
-![Honor Breakdown](images/honor-breakdown.png)
+![Honor Breakdown](/images/honor-breakdown.png)
 
-![Up Votes](images/up-votes.png)
+![Up Votes](/images/up-votes.png)
 
 [&#8593;](#top) [&#8595;](#theend)
 

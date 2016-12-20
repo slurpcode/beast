@@ -342,6 +342,7 @@ https://www.youtube.com/watch?v=tZdTTZf_hos){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
 
+
 **Some of my favorite websites**
 ===============================
 
@@ -365,12 +366,15 @@ https://www.youtube.com/watch?v=tZdTTZf_hos){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
 
-**The Beast Style**
-=====================
 
-![The Beast Style](/images/HonorBreakdown.png)
+**The Beast Style**
+====================
+![Honor Breakdown](images/honor-breakdown.png)
+
+![Up Votes](images/up-votes.png)
 
 [&#8593;](#top) [&#8595;](#theend)
+
 
 **Hey Ladies, A Large Powerful Cloc**
 =====================================
@@ -398,5 +402,4 @@ Python                           1              5              0             27
 SUM:                          3265         150230           8024        2675109
 -------------------------------------------------------------------------------
 ```
-
 [&#8593;](#top)

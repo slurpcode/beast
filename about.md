@@ -92,7 +92,8 @@ https://www.mysql.com/products/workbench/){:target="_blank"}, [SQLyog](https://w
 https://subversion.apache.org/){:target="_blank"} for version control.
 
 - [Homebrew](http://brew.sh/){:target="_blank"}, [RVM](
-http://rvm.io/){:target="_blank"}
+http://rvm.io/){:target="_blank"}, [rbenv](
+https://github.com/rbenv/rbenv){:target="_blank"}
 
 - [Windows 7, 8 and 10](
 https://www.microsoft.com/en-au/windows/features){:target="_blank"}, [OS X El Capitan](

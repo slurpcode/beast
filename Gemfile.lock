@@ -200,6 +200,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-feed
   jekyll-paginate
   jemoji
 

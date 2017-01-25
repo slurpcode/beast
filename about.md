@@ -161,14 +161,10 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 ==================
 
 - [Upwork](https://www.upwork.com/o/profiles/users/_~015e56316c3aa9a286/){:target="_blank"}
-
 - [Freelancer](https://www.freelancer.com/u/JohnBampton.html){:target="_blank"}
-
 - [Peopleperhour](
   http://www.peopleperhour.com/freelancer/john/bampton/multi-language-programming-artisan/175224){:target="_blank"}
-
 - [Guru](http://www.guru.com/freelancers/johnbampton){:target="_blank"}
-
 - [Linkedin](https://au.linkedin.com/pub/john-bampton/0/1a9/784){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
@@ -177,13 +173,9 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 ====================
 
 - [Microsoft - DAT204x: Introduction to R for Data Science](https://courses.edx.org/certificates/8c19c917cbac4fbc88e63d20338ef546){:target="_blank"}
-
 - [Microsoft - DAT208x: Introduction to Python for Data Science](https://courses.edx.org/certificates/2e8ec966312646ad9a5697f342b6ecff){:target="_blank"}
-
 - [W3Cx - HTML5.0x: HTML5 Introduction](https://courses.edx.org/certificates/3a1c2b31917a4e768c693720f899969d){:target="_blank"}
-
 - [SchoolYourself - AlgebraX: Introduction to Algebra](https://courses.edx.org/certificates/f6dbf8dcff354947aff06153b5fb8462){:target="_blank"}
-
 - [SchoolYourself - GeometryX: Introduction to Geometry](https://courses.edx.org/certificates/f05e37b1e8a347b4bc001a2fb063210a){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
@@ -192,23 +184,14 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 ===================
 
 - [Codewars](http://www.codewars.com/users/Beast/){:target="_blank"}
-
 - [Codecademy](https://www.codecademy.com/phpsuperguru){:target="_blank"}
-
 - [CheckiO](http://www.checkio.org/user/john.bampton/){:target="_blank"}
-
 - [CodinGame](https://www.codingame.com/profile/e3c327eb1fb4385f65fb5b98f567c564828638){:target="_blank"}
-
 - [DataCamp](https://www.datacamp.com/profile/Beast){:target="_blank"}
-
 - [Khanacademy](https://www.khanacademy.org/profile/XSLTGod/){:target="_blank"}
-
 - [Code School](https://www.codeschool.com/users/JohnBampton){:target="_blank"}
-
 - [CodeCombat](https://codecombat.com/user/john-bampton){:target="_blank"}
-
 - [Free Code Camp](https://www.freecodecamp.com/jbampton){:target="_blank"}
-
 - [HackerRank](https://www.hackerrank.com/JohnBampton){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
@@ -263,7 +246,7 @@ http://www.opera.com/computer/beta){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
 
-**RubyGems I have been using lately**
+**RubyGems I have been using recently**
 ====================================
 
 - [Nokogiri](http://www.nokogiri.org/){:target="_blank"}
@@ -280,6 +263,8 @@ http://www.opera.com/computer/beta){:target="_blank"}
 - [saxon-xslt](https://rubygems.org/gems/saxon-xslt/versions/0.5.1-java){:target="_blank"}
 - [minima](https://github.com/jekyll/minima){:target="_blank"}
 - [Sass](https://github.com/sass/sass){:target="_blank"}
+- [Jekyll Feed](https://github.com/jekyll/jekyll-feed){:target="_blank"}
+- [Jekyll::Paginate](https://github.com/jekyll/jekyll-paginate){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
 
@@ -330,19 +315,12 @@ https://www.youtube.com/watch?v=tZdTTZf_hos){:target="_blank"}
 =====================
 
 - [Google+](https://www.google.com/+JohnBampton){:target="_blank"}
-
 - [YouTube](https://www.youtube.com/channel/UCitIpEBxV_-DbycXL1kag2w){:target="_blank"}
-
 - [SoundCloud](https://soundcloud.com/johnbampton){:target="_blank"}
-
 - [Twitter](https://twitter.com/johnbampton){:target="_blank"}
-
 - [Instagram](https://www.instagram.com/johnbampton/){:target="_blank"}
-
 - [myspace](https://myspace.com/johnbampton){:target="_blank"}
-
 - [Tumblr](http://johnbampton.tumblr.com/){:target="_blank"}
-
 - [Pinterest](https://au.pinterest.com/johnbampton/){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
@@ -352,21 +330,13 @@ https://www.youtube.com/watch?v=tZdTTZf_hos){:target="_blank"}
 ===============================
 
 - [DistroWatch](http://distrowatch.com){:target="_blank"}
-
 - [Rubular](http://rubular.com/){:target="_blank"}
-
 - [Ruby-Doc.org](http://ruby-doc.org/){:target="_blank"}
-
 - [The Ruby Toolbox](https://www.ruby-toolbox.com/){:target="_blank"}
-
 - [Homebrew formulas index](http://brewformulas.org/){:target="_blank"}
-
 - [GTmetrix](https://gtmetrix.com/){:target="_blank"}
-
 - [W3C Markup Validation Service](https://validator.w3.org/){:target="_blank"}
-
 - [Woorank](https://www.woorank.com/){:target="_blank"}
-
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)

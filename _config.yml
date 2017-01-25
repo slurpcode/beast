@@ -10,6 +10,7 @@ title: The Beast
 last_update: "Site last built: "
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
+paginate: 5
 url: "http://jbampton.github.io" # the base hostname & protocol for your site
 twitter_username: johnbampton
 github_username:  jbampton
@@ -18,3 +19,4 @@ github_username:  jbampton
 markdown: kramdown
 gems:
   - jemoji
+  - jekyll-paginate

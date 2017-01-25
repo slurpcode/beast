@@ -200,6 +200,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-paginate
   jemoji
 
 BUNDLED WITH

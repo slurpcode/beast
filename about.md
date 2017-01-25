@@ -278,6 +278,8 @@ http://www.opera.com/computer/beta){:target="_blank"}
 - [prawn](https://rubygems.org/gems/prawn){:target="_blank"}
 - [prawn-table](https://rubygems.org/gems/prawn-table){:target="_blank"}
 - [saxon-xslt](https://rubygems.org/gems/saxon-xslt/versions/0.5.1-java){:target="_blank"}
+- [minima](https://github.com/jekyll/minima){:target="_blank"}
+- [Sass](https://github.com/sass/sass){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

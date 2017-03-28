@@ -48,7 +48,7 @@ https://www.python.org/){:target="_blank"}
 - [Regular Expressions](https://en.wikipedia.org/wiki/Regular_expression){:target="_blank"} and how to use them in many programming languages.
 
 - [kramdown](http://kramdown.gettalong.org/index.html){:target="_blank"}, [Jekyll](
-https://jekyllrb.com/){:target="_blank"}   and [Markdown](
+https://jekyllrb.com/){:target="_blank"}, [Markdown](
 https://en.wikipedia.org/wiki/Markdown){:target="_blank"} and [GitHub Pages](https://pages.github.com/){:target="_blank"}  
 
 - [Apache FOP](
@@ -84,7 +84,9 @@ https://www.nano-editor.org/){:target="_blank"}
 
 - [General SQL](https://en.wikipedia.org/wiki/SQL){:target="_blank"} but mostly [MySQL](
 https://en.wikipedia.org/wiki/SQL){:target="_blank"}, [MySQL WorkBench](
-https://www.mysql.com/products/workbench/){:target="_blank"}, [SQLyog](https://www.webyog.com/){:target="_blank"}
+https://www.mysql.com/products/workbench/){:target="_blank"}, [SQLyog](
+https://www.webyog.com/){:target="_blank"}, [phpMyAdmin](
+https://www.phpmyadmin.net/){:target="_blank"}
 
 - [Oracle VirtualBox](https://www.virtualbox.org/){:target="_blank"}
 
@@ -95,7 +97,8 @@ https://subversion.apache.org/){:target="_blank"} for version control.
 
 - [Homebrew](http://brew.sh/){:target="_blank"}, [RVM](
 http://rvm.io/){:target="_blank"}, [rbenv](
-https://github.com/rbenv/rbenv){:target="_blank"}
+https://github.com/rbenv/rbenv){:target="_blank"}, [ruby-build](
+https://github.com/rbenv/ruby-build){:target="_blank"}
 
 - [Windows 7, 8 and 10](
 https://www.microsoft.com/en-au/windows/features){:target="_blank"}, [OS X El Capitan](

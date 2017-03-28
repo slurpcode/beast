@@ -242,7 +242,9 @@ https://rogueamoeba.com/freebies/soundflower/){:target="_blank"}, [Notepad++](
 https://notepad-plus-plus.org/){:target="_blank"}, [Google Chrome Canary](
 https://www.google.com.au/chrome/browser/canary.html){:target="_blank"}, [Firefox Developer Edition](
 https://www.mozilla.org/en-US/firefox/developer/){:target="_blank"}, [Opera Beta](
-http://www.opera.com/computer/beta){:target="_blank"}
+http://www.opera.com/computer/beta){:target="_blank"}, [Bugzilla](
+https://www.bugzilla.org){:target="_blank"}, [Trello](
+https://trello.com){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

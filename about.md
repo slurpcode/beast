@@ -316,6 +316,13 @@ https://www.youtube.com/watch?v=tZdTTZf_hos){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
 
+**GitHub Resume**
+=================
+
+- http://resume.github.io/?jbampton
+
+[&#8593;](#top) [&#8595;](#theend)
+
 **Social**
 =====================
 

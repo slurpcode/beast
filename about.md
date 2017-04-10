@@ -319,7 +319,8 @@ https://www.youtube.com/watch?v=tZdTTZf_hos){:target="_blank"}
 **GitHub Resume**
 =================
 
-- http://resume.github.io/?jbampton
+- [http://resume.github.io/?jbampton](
+http://resume.github.io/?jbampton){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

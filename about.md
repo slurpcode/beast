@@ -247,7 +247,8 @@ https://www.google.com.au/chrome/browser/canary.html){:target="_blank"}, [Firefo
 https://www.mozilla.org/en-US/firefox/developer/){:target="_blank"}, [Opera Beta](
 http://www.opera.com/computer/beta){:target="_blank"}, [Bugzilla](
 https://www.bugzilla.org){:target="_blank"}, [Trello](
-https://trello.com){:target="_blank"}
+https://trello.com){:target="_blank"}, [WebStorm](
+https://www.jetbrains.com/webstorm/){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
 
@@ -351,6 +352,7 @@ http://resume.github.io/?jbampton){:target="_blank"}
 - [W3C Markup Validation Service](https://validator.w3.org/){:target="_blank"}
 - [Woorank](https://www.woorank.com/){:target="_blank"}
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/){:target="_blank"}
+- [Tiobe Index](https://www.tiobe.com/tiobe-index/){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

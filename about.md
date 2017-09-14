@@ -357,6 +357,14 @@ http://resume.github.io/?jbampton){:target="_blank"}
 [&#8593;](#top) [&#8595;](#theend)
 
 
+**Codewars authored kata**
+==================================
+
+- [Guess the list pattern](https://www.codewars.com/kata/guess-the-list-pattern)
+
+[&#8593;](#top) [&#8595;](#theend)
+
+
 **The Beast Style**
 ====================
 ![Honor Breakdown](/images/honor-breakdown.png)

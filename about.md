@@ -360,7 +360,10 @@ http://resume.github.io/?jbampton){:target="_blank"}
 **Codewars authored kata**
 ==================================
 
-- [Guess the list pattern](https://www.codewars.com/kata/guess-the-list-pattern)
+- [Guess the list pattern #1](https://www.codewars.com/kata/guess-the-list-pattern-number-1){:target="_blank"}
+- [Guess the list pattern #2](https://www.codewars.com/kata/guess-the-list-pattern-number-2){:target="_blank"}
+- [Guess the list pattern #3](https://www.codewars.com/kata/guess-the-list-pattern-number-3){:target="_blank"}
+- [Guess the list pattern #4](https://www.codewars.com/kata/guess-the-list-pattern-number-4){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

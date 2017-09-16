@@ -365,6 +365,7 @@ http://resume.github.io/?jbampton){:target="_blank"}
 - [Guess the list pattern #3](https://www.codewars.com/kata/guess-the-list-pattern-number-3){:target="_blank"}
 - [Guess the list pattern #4](https://www.codewars.com/kata/guess-the-list-pattern-number-4){:target="_blank"}
 - [Guess the list pattern #5](https://www.codewars.com/kata/guess-the-list-pattern-number-5){:target="_blank"}
+- [Guess the list pattern #6](https://www.codewars.com/kata/guess-the-list-pattern-number-6){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

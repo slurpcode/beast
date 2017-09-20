@@ -368,6 +368,7 @@ http://resume.github.io/?jbampton){:target="_blank"}
 - [Guess the list pattern #6](https://www.codewars.com/kata/guess-the-list-pattern-number-6){:target="_blank"}
 - [Guess the string pattern #1](https://www.codewars.com/kata/guess-the-string-pattern-number-1){:target="_blank"}
 - [Guess the integer #1](https://www.codewars.com/kata/guess-the-integer-number-1){:target="_blank"}
+- [Guess the float #1](https://www.codewars.com/kata/guess-the-float-number-1){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

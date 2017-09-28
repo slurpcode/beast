@@ -248,7 +248,8 @@ https://www.mozilla.org/en-US/firefox/developer/){:target="_blank"}, [Opera Beta
 http://www.opera.com/computer/beta){:target="_blank"}, [Bugzilla](
 https://www.bugzilla.org){:target="_blank"}, [Trello](
 https://trello.com){:target="_blank"}, [WebStorm](
-https://www.jetbrains.com/webstorm/){:target="_blank"}
+https://www.jetbrains.com/webstorm/){:target="_blank"}, [PhpStorm](
+https://www.jetbrains.com/phpstorm/){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

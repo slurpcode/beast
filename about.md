@@ -191,6 +191,7 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 - [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/f484bf67e752e9fcce56b371e38b98e1ab06ef44){:target="_blank"}
 - [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/d45b485905050455cbfe666a9e031c36174ffdc9){:target="_blank"}
 - [Importing Data in Python (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/6b98832b0f9be74b9d80f99fa89bcaf280a5491a){:target="_blank"}
+- [Importing Data in Python (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/76eca02a661167b7f947ee851ac5bbd7c49c92c4){:target="_blank"}
 - [Intro to SQL for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/95d5b6e23cab269f2efae12defcfad77b94b88c6){:target="_blank"}
 
 [&#8593;](#top) [&#8595;](#theend)

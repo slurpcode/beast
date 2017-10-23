@@ -86,7 +86,8 @@ https://www.nano-editor.org/){:target="_blank"}
 https://en.wikipedia.org/wiki/SQL){:target="_blank"}, [MySQL WorkBench](
 https://www.mysql.com/products/workbench/){:target="_blank"}, [SQLyog](
 https://www.webyog.com/){:target="_blank"}, [phpMyAdmin](
-https://www.phpmyadmin.net/){:target="_blank"}
+https://www.phpmyadmin.net/){:target="_blank"},
+[PostgreSQL](https://www.postgresql.org/){:target="_blank"}
 
 - [Oracle VirtualBox](https://www.virtualbox.org/){:target="_blank"}
 

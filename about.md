@@ -118,6 +118,14 @@ https://jquery.com/){:target="_blank"}, [Bootstrap](http://getbootstrap.com/){:t
 
 [&#8593;](#top) [&#8595;](#theend)
 
+
+**Tech I have been learning about recently**
+============================================
+
+- [Matplotlib](https://matplotlib.org){:target="_blank"}, [Pandas](http://pandas.pydata.org/){:target="_blank"}, [NumPy](http://www.numpy.org/){:target="_blank"}
+
+[&#8593;](#top) [&#8595;](#theend)
+
 **Places I have worked**
 ========================
 

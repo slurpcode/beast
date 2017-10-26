@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Apple vs Adobe vs Google vs Microsoft - Stock Prices"
+title:  'Apple vs Adobe vs Google vs Microsoft - Stock Prices'
 date:   2017-10-25 11:14:00 +1000
-categories: Python Matplotlib Pandas
+categories: 'python matplotlib pandas'
 ---
 
 Demonstration of using subplots with Matplotlib to show stock prices of four of the biggest companies in the world.

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "New domain name"
+title:  'New domain name'
 date:   2016-09-14 04:21:12 +1000
-categories: Beast
+categories: 'beast'
 ---
 
 Just got my new domain name: **thebeast.me**.

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to my website"
+title:  'Welcome to my website'
 date:   2016-07-08 04:21:12 +1000
-categories: welcome Ruby
+categories: 'welcome ruby'
 ---
 
 Well it wouldn't be a proper welcome without a code snippet would it...?!?!

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Apple vs Adobe vs Google vs Microsoft - Stock Prices Part 2"
+title:  'Apple vs Adobe vs Google vs Microsoft - Stock Prices Part 2'
 date:   2017-10-25 13:55:00 +1000
-categories: Python Matplotlib Pandas
+categories: 'python matplotlib pandas'
 ---
 
 This post shows stock prices for four of the biggest companies in the world in a single chart.

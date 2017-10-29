@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<img src="/images/thebeast.png" alt="The Beast" class="thebeast">
+<picture>
+  <source type="image/webp" srcset="/images/thebeast.webp">
+  <img src="/images/thebeast.png" alt="The Beast" class="thebeast">
+</picture>
 <a id="top"></a> Hey my name is [John Bampton](https://www.google.com.au/search?q=john+bampton+brisbane&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=1U4RWP7sN9DN8gejmoLwDA#q=john+bampton+brisbane&pws=0&gfe_rd=cr){:target="_blank"}{:rel="noopener"}, well actually some people call me **The Beast**,  [The Beast 300+ Style](https://www.codewars.com/users/Beast/site-events){:target="_blank"}{:rel="noopener"} (disclaimer number subject to change), **The Beast T-721** (Prototype Series **721** Terminator - a shapeshifting **Ruby** Assassin) or just **Beast** for short.  **Deep down** inside I'm a truly **magical** and **wondrous Beast**. I live in :sunny: [BrisVegas](https://en.wikipedia.org/wiki/Brisbane){:target="_blank"}{:rel="noopener"}, well that's what we call [Brisbane](https://www.brisbane.qld.gov.au/){:target="_blank"}{:rel="noopener"} here and I worked for **over 3.25 years** on a [large California :us: based software project](http://bees.archenergy.com/){:target="_blank"}{:rel="noopener"} (Thanks **Barack** my **Main Man Obama** for the paycheck, I can try to fit you into my calendar if you want to discuss all things **Beast** and **world domination** as I know you are an avid reader of my personal **Beast** website....!?!?!) in the energy sector. In fact a top California based [sensei](https://www.google.com.au/search?q=sensei&espv=2&biw=1594&bih=1503&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiy6IqOpYrQAhXEFJQKHUOMAToQ_AUIBigB){:target="_blank"}{:rel="noopener"} has trained **The Beast** in most of [Ken's Special Attacks](http://streetfighter.wikia.com/wiki/Category:Ken's_Special_Attacks){:target="_blank"}{:rel="noopener"}.
 
 I have a live by the keyboard, :computer: die by the keyboard, [midnight commander](https://www.midnight-commander.org){:target="_blank"}{:rel="noopener"} :clock12: kind of attitude.  Some of the important things in my life are [The Jedi](

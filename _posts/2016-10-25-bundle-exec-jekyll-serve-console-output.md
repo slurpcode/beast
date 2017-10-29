@@ -2,7 +2,7 @@
 layout: post
 title:  'bundle exec jekyll serve console output'
 date:   2016-10-25 01:00:00 +1000
-categories: 'bundler jekyll ruby'
+categories: 'ruby'
 ---
 
 <pre>

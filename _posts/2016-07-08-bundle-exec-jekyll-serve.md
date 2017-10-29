@@ -2,7 +2,7 @@
 layout: post
 title:  'bundle exec jekyll serve'
 date:   2016-07-08 04:21:12 +1000
-categories: 'bundler jekyll ruby'
+categories: 'ruby'
 ---
 
 I use the command

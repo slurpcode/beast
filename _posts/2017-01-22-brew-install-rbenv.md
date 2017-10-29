@@ -2,7 +2,7 @@
 layout: post
 title:  'brew install rbenv'
 date:   2017-01-22 01:00:00 +1000
-categories: 'homebrew rbenv ruby'
+categories: 'ruby'
 ---
 
 Installing [rbenv](https://github.com/rbenv/rbenv){:target="_blank"} is easy with [Homebrew](http://brew.sh/){:target="_blank"} with the next two commands:

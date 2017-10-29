@@ -2,7 +2,7 @@
 layout: post
 title:  'rbenv help command'
 date:   2017-01-24 01:00:00 +1000
-categories: 'rbenv ruby'
+categories: 'ruby'
 ---
 
 List all rbenv commands:

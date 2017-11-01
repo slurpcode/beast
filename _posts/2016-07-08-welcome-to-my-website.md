@@ -20,8 +20,8 @@ Beast@Destiny~ $
 ```
 
 You can read up more on [Interactive Ruby shell](
-http://ruby-doc.org/stdlib-2.0.0/libdoc/irb/rdoc/IRB.html){:target="_blank"} or irb [here](
-https://en.wikipedia.org/wiki/Interactive_Ruby_Shell){:target="_blank"}
+http://ruby-doc.org/stdlib-2.0.0/libdoc/irb/rdoc/IRB.html){:target="_blank"}{:rel="noopener"} or irb [here](
+https://en.wikipedia.org/wiki/Interactive_Ruby_Shell){:target="_blank"}{:rel="noopener"}
 
 If you have Ruby installed you can run:
 

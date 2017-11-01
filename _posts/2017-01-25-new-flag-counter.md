@@ -6,4 +6,4 @@ categories: 'countries'
 ---
 
 Today I added a hit counter to the footer of my website from [FLAG COUNTER](
-https://flagcounter.com){:target="_blank"}
+https://flagcounter.com){:target="_blank"}{:rel="noopener"}

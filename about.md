@@ -276,7 +276,7 @@ https://www.bugzilla.org){:target="_blank"}{:rel="noopener"}, [Trello](
 https://trello.com){:target="_blank"}{:rel="noopener"}, [WebStorm](
 https://www.jetbrains.com/webstorm/){:target="_blank"}{:rel="noopener"}, [PhpStorm](
 https://www.jetbrains.com/phpstorm/){:target="_blank"}{:rel="noopener"}, [Apache HTTP Server](
-https://httpd.apache.org/){:target="_blank"}{:rel="noopener"}, [Postfix](http://www.postfix.org/){:target="_blank"}{:rel="noopener"}, [Joomla](https://www.joomla.org/){:target="_blank"}{:rel="noopener"}
+https://httpd.apache.org/){:target="_blank"}{:rel="noopener"}, [Postfix](http://www.postfix.org/){:target="_blank"}{:rel="noopener"}, [Joomla](https://www.joomla.org/){:target="_blank"}{:rel="noopener"}, [YouTrack](https://www.jetbrains.com/youtrack/){:target="_blank"}{:rel="noopener"}, [GitLab](https://about.gitlab.com/){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

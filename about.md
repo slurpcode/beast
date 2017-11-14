@@ -90,7 +90,7 @@ https://en.wikipedia.org/wiki/SQL){:target="_blank"}{:rel="noopener"}, [MySQL Wo
 https://www.mysql.com/products/workbench/){:target="_blank"}{:rel="noopener"}, [SQLyog](
 https://www.webyog.com/){:target="_blank"}{:rel="noopener"}, [phpMyAdmin](
 https://www.phpmyadmin.net/){:target="_blank"}{:rel="noopener"},
-[PostgreSQL](https://www.postgresql.org/){:target="_blank"}{:rel="noopener"}
+[PostgreSQL](https://www.postgresql.org/){:target="_blank"}{:rel="noopener"}, [DataGrip](https://www.jetbrains.com/datagrip/){:target="_blank"}{:rel="noopener"}
 
 - [Oracle VirtualBox](https://www.virtualbox.org/){:target="_blank"}{:rel="noopener"}
 
@@ -105,8 +105,8 @@ https://github.com/rbenv/rbenv){:target="_blank"}{:rel="noopener"}, [ruby-build]
 https://github.com/rbenv/ruby-build){:target="_blank"}{:rel="noopener"}
 
 - [Windows 7, 8 and 10](
-https://www.microsoft.com/en-au/windows/features){:target="_blank"}{:rel="noopener"}, [OS X El Capitan](
-http://www.apple.com/au/osx/whats-new/){:target="_blank"}{:rel="noopener"}, [Linux](
+https://www.microsoft.com/en-au/windows/features){:target="_blank"}{:rel="noopener"}, [macOS High Sierra](
+https://www.apple.com/macos/high-sierra/){:target="_blank"}{:rel="noopener"}, [Linux](
 http://www.linuxfoundation.org/){:target="_blank"}{:rel="noopener"} mainly [Ubuntu](
 http://www.ubuntu.com/){:target="_blank"}{:rel="noopener"} or Ubuntu variants like [xubuntu](
 http://xubuntu.org/){:target="_blank"}{:rel="noopener"}, [lubuntu](
@@ -125,7 +125,7 @@ https://jquery.com/){:target="_blank"}{:rel="noopener"}, [Bootstrap](http://getb
 **Tech I have been learning about recently**
 ============================================
 
-- [Matplotlib](https://matplotlib.org){:target="_blank"}{:rel="noopener"}, [Pandas](http://pandas.pydata.org/){:target="_blank"}{:rel="noopener"}, [NumPy](http://www.numpy.org/){:target="_blank"}{:rel="noopener"}
+- [Matplotlib](https://matplotlib.org){:target="_blank"}{:rel="noopener"}, [Pandas](http://pandas.pydata.org/){:target="_blank"}{:rel="noopener"}, [NumPy](http://www.numpy.org/){:target="_blank"}{:rel="noopener"}, [Debian](https://www.debian.org/){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 
@@ -275,7 +275,8 @@ http://www.opera.com/computer/beta){:target="_blank"}{:rel="noopener"}, [Bugzill
 https://www.bugzilla.org){:target="_blank"}{:rel="noopener"}, [Trello](
 https://trello.com){:target="_blank"}{:rel="noopener"}, [WebStorm](
 https://www.jetbrains.com/webstorm/){:target="_blank"}{:rel="noopener"}, [PhpStorm](
-https://www.jetbrains.com/phpstorm/){:target="_blank"}{:rel="noopener"}
+https://www.jetbrains.com/phpstorm/){:target="_blank"}{:rel="noopener"}, [Apache HTTP Server](
+https://httpd.apache.org/){:target="_blank"}{:rel="noopener"}, [Postfix](http://www.postfix.org/){:target="_blank"}{:rel="noopener"}, [Joomla](https://www.joomla.org/){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

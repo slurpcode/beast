@@ -3,12 +3,13 @@
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 5px solid $grey-color-dark;
     min-height: 56px;
-    background-color: $peach;
+    background-color: #FF00FF;
     // Positioning context for the mobile navigation icon
     position: relative;
     font-weight: bold;
+    padding-bottom: 7px;
 }
 
 .site-title {
@@ -48,9 +49,9 @@
         position: absolute;
         top: 9px;
         right: $spacing-unit / 2;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
+        background-color: #66ff00;
+        border: 5px solid $grey-color-dark;
+        border-radius: 20px;
         text-align: right;
 
         .menu-icon {
@@ -100,8 +101,9 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 5px solid $grey-color-dark;
     padding: $spacing-unit 0;
+    background-color: $background-color;
 }
 
 .footer-heading {
@@ -123,8 +125,6 @@
     @extend %clearfix;
 
 }
-
-body { background-color: white;}
 
 .footer-col {
     float: left;
@@ -181,6 +181,7 @@ pre, .footer-col p {
  */
 .page-content {
     padding: $spacing-unit 0;
+    background-color: white;
 
 }
 

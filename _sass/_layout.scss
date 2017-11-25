@@ -258,10 +258,11 @@ pre, .footer-col p {
 }
 
 .thebeast {
-  margin: 12px 15px 9px 0px;
+  margin: 5px 15px 9px 0px;
   border-radius: 5px;
   float: left;
   max-width: 250px;
+  border: 5px solid $grey-color-dark;
 }
 .social-media-list a {
   font-size: 16pt

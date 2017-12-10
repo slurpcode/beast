@@ -205,6 +205,7 @@ https://jquery.com/){:target="_blank"}{:rel="noopener"}, [Bootstrap](http://getb
 - [Importing Data in Python (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/6b98832b0f9be74b9d80f99fa89bcaf280a5491a){:target="_blank"}{:rel="noopener"}
 - [Importing Data in Python (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/76eca02a661167b7f947ee851ac5bbd7c49c92c4){:target="_blank"}{:rel="noopener"}
 - [Intro to SQL for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/95d5b6e23cab269f2efae12defcfad77b94b88c6){:target="_blank"}{:rel="noopener"}
+- [Introduction to Shell for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/197617016c96525b6200df58b12dead663a812d2){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

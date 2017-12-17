@@ -398,6 +398,7 @@ http://resume.github.io/?jbampton){:target="_blank"}{:rel="noopener"}
 - [Guess the string pattern #1](https://www.codewars.com/kata/guess-the-string-pattern-number-1){:target="_blank"}{:rel="noopener"}
 - [Guess the integer #1](https://www.codewars.com/kata/guess-the-integer-number-1){:target="_blank"}{:rel="noopener"}
 - [Guess the float #1](https://www.codewars.com/kata/guess-the-float-number-1){:target="_blank"}{:rel="noopener"}
+- [Looper](https://www.codewars.com/kata/looper){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

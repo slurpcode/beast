@@ -235,6 +235,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed
   jekyll-paginate
+  jekyll-sitemap
   jemoji
 
 BUNDLED WITH

@@ -302,6 +302,8 @@ https://httpd.apache.org/){:target="_blank"}{:rel="noopener"}, [Postfix](http://
 - [Sass](https://github.com/sass/sass){:target="_blank"}{:rel="noopener"}
 - [Jekyll Feed](https://github.com/jekyll/jekyll-feed){:target="_blank"}{:rel="noopener"}
 - [Jekyll::Paginate](https://github.com/jekyll/jekyll-paginate){:target="_blank"}{:rel="noopener"}
+- [Rugged](https://github.com/libgit2/rugged){:target="_blank"}{:rel="noopener"}
+- [bundler-audit](https://github.com/rubysec/bundler-audit){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

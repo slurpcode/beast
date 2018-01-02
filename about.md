@@ -403,6 +403,8 @@ http://resume.github.io/?jbampton){:target="_blank"}{:rel="noopener"}
 - [Guess the integer #1](https://www.codewars.com/kata/guess-the-integer-number-1){:target="_blank"}{:rel="noopener"}
 - [Guess the float #1](https://www.codewars.com/kata/guess-the-float-number-1){:target="_blank"}{:rel="noopener"}
 - [Looper](https://www.codewars.com/kata/looper){:target="_blank"}{:rel="noopener"}
+- [Reorder Array](https://www.codewars.com/kata/5a48134535aaec24930007e7){:target="_blank"}{:rel="noopener"}
+- [Reorder Array 2](https://www.codewars.com/kata/5a48fab7bdb9b5b3690009b6){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

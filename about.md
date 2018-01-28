@@ -206,6 +206,7 @@ https://jquery.com/){:target="_blank"}{:rel="noopener"}, [Bootstrap](http://getb
 - [Importing Data in Python (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/76eca02a661167b7f947ee851ac5bbd7c49c92c4){:target="_blank"}{:rel="noopener"}
 - [Importing & Managing Financial Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/e2d47cda1392e3bbb8f53771ddfbc3ddef9a8962){:target="_blank"}{:rel="noopener"}
 - [Introduction to Data Visualization with Python](https://www.datacamp.com/statement-of-accomplishment/course/64354331dbafb8c89d18d033d4b38782b735fdf8){:target="_blank"}{:rel="noopener"}
+- [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/e5bbe7fb7e5517b2134d66ae2f7eebc6654e763e){:target="_blank"}{:rel="noopener"}
 - [Intro to SQL for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/95d5b6e23cab269f2efae12defcfad77b94b88c6){:target="_blank"}{:rel="noopener"}
 - [Introduction to Shell for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/197617016c96525b6200df58b12dead663a812d2){:target="_blank"}{:rel="noopener"}
 - [Introduction to Git for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/95b42c39f12ca2a1e53d246f627be3dc7c16ee29){:target="_blank"}{:rel="noopener"}

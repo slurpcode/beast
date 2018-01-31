@@ -210,6 +210,7 @@ https://jquery.com/){:target="_blank"}{:rel="noopener"}, [Bootstrap](http://getb
 - [Intro to SQL for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/95d5b6e23cab269f2efae12defcfad77b94b88c6){:target="_blank"}{:rel="noopener"}
 - [Introduction to Shell for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/197617016c96525b6200df58b12dead663a812d2){:target="_blank"}{:rel="noopener"}
 - [Introduction to Git for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/95b42c39f12ca2a1e53d246f627be3dc7c16ee29){:target="_blank"}{:rel="noopener"}
+- [Reporting with R Markdown](https://www.datacamp.com/statement-of-accomplishment/course/7035e809e0d9b5f3882397dfe33045f2a7b9c70b){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

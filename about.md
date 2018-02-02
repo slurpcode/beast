@@ -198,6 +198,12 @@ https://jquery.com/){:target="_blank"}{:rel="noopener"}, [Bootstrap](http://getb
 **DataCamp Certificates**
 =========================
 
+#### Tracks
+
+- [Python Programming Track](https://www.datacamp.com/statement-of-accomplishment/track/5d6ed74611456e1154efe7ee70cc6d16092b543f){:target="_blank"}{:rel="noopener"}
+
+#### Courses
+
 - [Intro to Python for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/2b11ec2939e7978fbc9989c1935b465b73fb99f2){:target="_blank"}{:rel="noopener"}
 - [Intermediate Python for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/2b1a1914a423fce52d82e7939838172078235ca0){:target="_blank"}{:rel="noopener"}
 - [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/f484bf67e752e9fcce56b371e38b98e1ab06ef44){:target="_blank"}{:rel="noopener"}

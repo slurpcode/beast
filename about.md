@@ -198,7 +198,7 @@ https://jquery.com/){:target="_blank"}{:rel="noopener"}, [Bootstrap](http://getb
 **DataCamp Certificates**
 =========================
 
-#### Tracks
+#### Skill Tracks
 
 - [Python Programming Track](https://www.datacamp.com/statement-of-accomplishment/track/5d6ed74611456e1154efe7ee70cc6d16092b543f){:target="_blank"}{:rel="noopener"}
 - [Importing & Cleaning Data with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/c17efd4fc0cb28adeed84db9fa06c6b405294ed6){:target="_blank"}{:rel="noopener"}

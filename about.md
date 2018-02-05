@@ -198,6 +198,10 @@ https://jquery.com/){:target="_blank"}{:rel="noopener"}, [Bootstrap](http://getb
 **DataCamp Certificates**
 =========================
 
+#### Career Tracks
+
+- [Python Programmer Track](https://www.datacamp.com/statement-of-accomplishment/track/1de989b46e423beacca2a8fed22877fcce8519b7){:target="_blank"}{:rel="noopener"}
+
 #### Skill Tracks
 
 - [Python Programming Track](https://www.datacamp.com/statement-of-accomplishment/track/5d6ed74611456e1154efe7ee70cc6d16092b543f){:target="_blank"}{:rel="noopener"}
@@ -216,6 +220,7 @@ https://jquery.com/){:target="_blank"}{:rel="noopener"}, [Bootstrap](http://getb
 - [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/e5bbe7fb7e5517b2134d66ae2f7eebc6654e763e){:target="_blank"}{:rel="noopener"}
 - [pandas Foundations](https://www.datacamp.com/statement-of-accomplishment/course/1c3c629ffc0ba2e76c2e73cf46c77b3ba419a408){:target="_blank"}{:rel="noopener"}
 - [Cleaning Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/5886a18f163cdbd12a94a404a616ad21c3f159ea){:target="_blank"}{:rel="noopener"}
+- [Manipulating DataFrames with pandas](https://www.datacamp.com/statement-of-accomplishment/course/1d171e21e32f0095223226963b252b5819ad4e38){:target="_blank"}{:rel="noopener"}
 - [Introduction to Databases in Python](https://www.datacamp.com/statement-of-accomplishment/course/0c6ee250fa36fe3d8f64b8bb6aa704a8303d828c){:target="_blank"}{:rel="noopener"}
 - [Intro to SQL for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/95d5b6e23cab269f2efae12defcfad77b94b88c6){:target="_blank"}{:rel="noopener"}
 - [Introduction to Shell for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/197617016c96525b6200df58b12dead663a812d2){:target="_blank"}{:rel="noopener"}

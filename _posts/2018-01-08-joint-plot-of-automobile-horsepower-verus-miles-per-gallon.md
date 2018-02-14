@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Joint plot of automobile horsepower versus miles per gallon'
+title:  Joint plot of automobile horsepower versus miles per gallon
 date:   2018-01-08 05:21:12 +1000
 categories: python
 ---

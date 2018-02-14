@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Events of the day"
+title:  Events of the day
 date:   2017-12-04 09:49:00 +1000
-categories: 'news'
+categories: news
 ---
 
 A wonderful day today as I ranked up at three different languages on [Codewars](https://www.codewars.com){:target="_blank"}{:rel="noopener"}.

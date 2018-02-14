@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Hexbin jointplot of horsepower versus miles per gallon'
+title:  Hexbin jointplot of horsepower versus miles per gallon
 date:   2018-01-16 04:21:12 +1000
 categories: python
 ---

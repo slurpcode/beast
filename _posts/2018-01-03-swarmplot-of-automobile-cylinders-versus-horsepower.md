@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Swarmplot of automobile cylinders versus horsepower'
+title:  Swarmplot of automobile cylinders versus horsepower
 date:   2018-01-03 04:21:12 +1000
 categories: python
 ---

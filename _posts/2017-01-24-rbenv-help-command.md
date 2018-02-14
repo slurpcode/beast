@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  'rbenv help command'
+title:  rbenv help command
 date:   2017-01-24 01:00:00 +1000
-categories: 'ruby'
+categories: ruby
 ---
 
-List all rbenv commands:
+List all [rbenv](https://github.com/rbenv/rbenv){:target="_blank"}{:rel="noopener"} commands:
 
 ```
 $ rbenv commands

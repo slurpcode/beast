@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  'USA Labor Market'
+title:  USA Labor Market
 date:   2017-11-26 06:49:00 +1000
-categories: 'python'
+categories: python
 ---
 
 This post highlights the USA Labor Market shown by a comparison between the Unemployment Rate and Participation Rate

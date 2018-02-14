@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Violin plot of automobile cylinders versus horsepower'
+title:  Violin plot of automobile cylinders versus horsepower
 date:   2018-01-08 04:21:12 +1000
 categories: python
 ---

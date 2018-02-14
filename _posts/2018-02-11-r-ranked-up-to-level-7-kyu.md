@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'R Rank Up'
+title:  R Rank Up
 date:   2018-02-11 01:21:00 +1000
 categories: news
 ---

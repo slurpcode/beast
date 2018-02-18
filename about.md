@@ -223,6 +223,7 @@ https://jquery.com/){:target="_blank"}{:rel="noopener"}, [Bootstrap](http://getb
 - [Cleaning Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/5886a18f163cdbd12a94a404a616ad21c3f159ea){:target="_blank"}{:rel="noopener"}
 - [Manipulating DataFrames with pandas](https://www.datacamp.com/statement-of-accomplishment/course/1d171e21e32f0095223226963b252b5819ad4e38){:target="_blank"}{:rel="noopener"}
 - [Merging DataFrames with pandas](https://www.datacamp.com/statement-of-accomplishment/course/028ffa6da1274c761230d15e3df1930c01260041){:target="_blank"}{:rel="noopener"}
+- [Data Types for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/d8d22c2475509550b89cd59557a9be35be6aa9be){:target="_blank"}{:rel="noopener"}
 - [Introduction to Databases in Python](https://www.datacamp.com/statement-of-accomplishment/course/0c6ee250fa36fe3d8f64b8bb6aa704a8303d828c){:target="_blank"}{:rel="noopener"}
 - [Intro to SQL for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/95d5b6e23cab269f2efae12defcfad77b94b88c6){:target="_blank"}{:rel="noopener"}
 - [Introduction to Shell for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/197617016c96525b6200df58b12dead663a812d2){:target="_blank"}{:rel="noopener"}

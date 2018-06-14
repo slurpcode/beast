@@ -328,6 +328,8 @@ https://httpd.apache.org/){:target="_blank"}{:rel="noopener"}, [Postfix](http://
 - [Jekyll::Paginate](https://github.com/jekyll/jekyll-paginate){:target="_blank"}{:rel="noopener"}
 - [Rugged](https://github.com/libgit2/rugged){:target="_blank"}{:rel="noopener"}
 - [bundler-audit](https://github.com/rubysec/bundler-audit){:target="_blank"}{:rel="noopener"}
+- [Chroma](https://github.com/jfairbank/chroma){:target="_blank"}{:rel="noopener"}
+- [CSV](https://github.com/ruby/csv){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

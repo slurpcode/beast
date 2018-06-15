@@ -125,7 +125,7 @@ https://jquery.com/){:target="_blank"}{:rel="noopener"}, [Bootstrap](http://getb
 **Tech I have been learning about recently**
 ============================================
 
-- [Matplotlib](https://matplotlib.org){:target="_blank"}{:rel="noopener"}, [Pandas](http://pandas.pydata.org/){:target="_blank"}{:rel="noopener"}, [NumPy](http://www.numpy.org/){:target="_blank"}{:rel="noopener"}, [Debian](https://www.debian.org/){:target="_blank"}{:rel="noopener"}
+- [Matplotlib](https://matplotlib.org){:target="_blank"}{:rel="noopener"}, [Pandas](http://pandas.pydata.org/){:target="_blank"}{:rel="noopener"}, [NumPy](http://www.numpy.org/){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 
@@ -303,7 +303,12 @@ https://www.bugzilla.org){:target="_blank"}{:rel="noopener"}, [Trello](
 https://trello.com){:target="_blank"}{:rel="noopener"}, [WebStorm](
 https://www.jetbrains.com/webstorm/){:target="_blank"}{:rel="noopener"}, [PhpStorm](
 https://www.jetbrains.com/phpstorm/){:target="_blank"}{:rel="noopener"}, [Apache HTTP Server](
-https://httpd.apache.org/){:target="_blank"}{:rel="noopener"}, [Postfix](http://www.postfix.org/){:target="_blank"}{:rel="noopener"}, [Joomla](https://www.joomla.org/){:target="_blank"}{:rel="noopener"}, [YouTrack](https://www.jetbrains.com/youtrack/){:target="_blank"}{:rel="noopener"}, [GitLab](https://about.gitlab.com/){:target="_blank"}{:rel="noopener"}
+https://httpd.apache.org/){:target="_blank"}{:rel="noopener"}, [Postfix](
+http://www.postfix.org/){:target="_blank"}{:rel="noopener"}, [Joomla](
+https://www.joomla.org/){:target="_blank"}{:rel="noopener"}, [YouTrack](
+https://www.jetbrains.com/youtrack/){:target="_blank"}{:rel="noopener"}, [GitLab](
+https://about.gitlab.com/){:target="_blank"}{:rel="noopener"}, [Debian](
+https://www.debian.org/){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 
@@ -332,6 +337,7 @@ https://httpd.apache.org/){:target="_blank"}{:rel="noopener"}, [Postfix](http://
 - [CSV](https://github.com/ruby/csv){:target="_blank"}{:rel="noopener"}
 - [OptionParser](https://docs.ruby-lang.org/en/2.5.0/OptionParser.html){:target="_blank"}{:rel="noopener"}
 - [Axlsx](https://github.com/randym/axlsx){:target="_blank"}{:rel="noopener"}
+- [Paint](https://github.com/janlelis/paint){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

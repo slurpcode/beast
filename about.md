@@ -331,6 +331,7 @@ https://httpd.apache.org/){:target="_blank"}{:rel="noopener"}, [Postfix](http://
 - [Chroma](https://github.com/jfairbank/chroma){:target="_blank"}{:rel="noopener"}
 - [CSV](https://github.com/ruby/csv){:target="_blank"}{:rel="noopener"}
 - [OptionParser](https://docs.ruby-lang.org/en/2.5.0/OptionParser.html){:target="_blank"}{:rel="noopener"}
+- [Axlsx](https://github.com/randym/axlsx){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

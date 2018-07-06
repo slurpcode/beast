@@ -235,6 +235,7 @@ https://jquery.com/){:target="_blank"}{:rel="noopener"}, [Bootstrap](http://getb
 - [Intermediate R - Practice](https://www.datacamp.com/statement-of-accomplishment/course/b75a4bf5b1f9c3906f8ed4d599b8c762e7233080){:target="_blank"}{:rel="noopener"}
 - [Reporting with R Markdown](https://www.datacamp.com/statement-of-accomplishment/course/7035e809e0d9b5f3882397dfe33045f2a7b9c70b){:target="_blank"}{:rel="noopener"}
 - [Spreadsheet Basics](https://www.datacamp.com/statement-of-accomplishment/course/4e2cca0b0abed14a14d0ea3756fce42be408ab1e){:target="_blank"}{:rel="noopener"}
+- [Data Analysis with Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/b14f002cba04903f9fd32142e558767f27b7348a){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

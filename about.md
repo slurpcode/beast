@@ -102,7 +102,9 @@ https://subversion.apache.org/){:target="_blank"}{:rel="noopener"} for version c
 - [Homebrew](http://brew.sh/){:target="_blank"}{:rel="noopener"}, [RVM](
 http://rvm.io/){:target="_blank"}{:rel="noopener"}, [rbenv](
 https://github.com/rbenv/rbenv){:target="_blank"}{:rel="noopener"}, [ruby-build](
-https://github.com/rbenv/ruby-build){:target="_blank"}{:rel="noopener"}
+https://github.com/rbenv/ruby-build){:target="_blank"}{:rel="noopener"}, [Chocolatey](
+https://chocolatey.org/){:target="_blank"}{:rel="noopener"}, [pip](
+https://github.com/pypa/pip){:target="_blank"}{:rel="noopener"}
 
 - [Windows 7, 8 and 10](
 https://www.microsoft.com/en-au/windows/features){:target="_blank"}{:rel="noopener"}, [macOS High Sierra](
@@ -339,6 +341,7 @@ https://www.debian.org/){:target="_blank"}{:rel="noopener"}
 - [OptionParser](https://docs.ruby-lang.org/en/2.5.0/OptionParser.html){:target="_blank"}{:rel="noopener"}
 - [Axlsx](https://github.com/randym/axlsx){:target="_blank"}{:rel="noopener"}
 - [Paint](https://github.com/janlelis/paint){:target="_blank"}{:rel="noopener"}
+- [Mechanize](https://github.com/sparklemotion/mechanize){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

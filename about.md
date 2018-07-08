@@ -212,30 +212,37 @@ https://jquery.com/){:target="_blank"}{:rel="noopener"}, [Bootstrap](http://getb
 
 #### Courses
 
-- [Intro to Python for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/2b11ec2939e7978fbc9989c1935b465b73fb99f2){:target="_blank"}{:rel="noopener"}
-- [Intermediate Python for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/2b1a1914a423fce52d82e7939838172078235ca0){:target="_blank"}{:rel="noopener"}
-- [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/f484bf67e752e9fcce56b371e38b98e1ab06ef44){:target="_blank"}{:rel="noopener"}
-- [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/d45b485905050455cbfe666a9e031c36174ffdc9){:target="_blank"}{:rel="noopener"}
-- [Importing Data in Python (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/6b98832b0f9be74b9d80f99fa89bcaf280a5491a){:target="_blank"}{:rel="noopener"}
-- [Importing Data in Python (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/76eca02a661167b7f947ee851ac5bbd7c49c92c4){:target="_blank"}{:rel="noopener"}
-- [Importing & Managing Financial Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/e2d47cda1392e3bbb8f53771ddfbc3ddef9a8962){:target="_blank"}{:rel="noopener"}
-- [Introduction to Data Visualization with Python](https://www.datacamp.com/statement-of-accomplishment/course/64354331dbafb8c89d18d033d4b38782b735fdf8){:target="_blank"}{:rel="noopener"}
-- [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/e5bbe7fb7e5517b2134d66ae2f7eebc6654e763e){:target="_blank"}{:rel="noopener"}
-- [pandas Foundations](https://www.datacamp.com/statement-of-accomplishment/course/1c3c629ffc0ba2e76c2e73cf46c77b3ba419a408){:target="_blank"}{:rel="noopener"}
-- [Cleaning Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/5886a18f163cdbd12a94a404a616ad21c3f159ea){:target="_blank"}{:rel="noopener"}
-- [Manipulating DataFrames with pandas](https://www.datacamp.com/statement-of-accomplishment/course/1d171e21e32f0095223226963b252b5819ad4e38){:target="_blank"}{:rel="noopener"}
-- [Merging DataFrames with pandas](https://www.datacamp.com/statement-of-accomplishment/course/028ffa6da1274c761230d15e3df1930c01260041){:target="_blank"}{:rel="noopener"}
-- [Data Types for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/d8d22c2475509550b89cd59557a9be35be6aa9be){:target="_blank"}{:rel="noopener"}
-- [Introduction to Databases in Python](https://www.datacamp.com/statement-of-accomplishment/course/0c6ee250fa36fe3d8f64b8bb6aa704a8303d828c){:target="_blank"}{:rel="noopener"}
-- [Intro to SQL for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/95d5b6e23cab269f2efae12defcfad77b94b88c6){:target="_blank"}{:rel="noopener"}
-- [Introduction to Shell for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/197617016c96525b6200df58b12dead663a812d2){:target="_blank"}{:rel="noopener"}
-- [Introduction to Git for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/95b42c39f12ca2a1e53d246f627be3dc7c16ee29){:target="_blank"}{:rel="noopener"}
-- [Introduction to R](https://www.datacamp.com/statement-of-accomplishment/course/7bdfb819d6a2c6bc4412b9dc8140c7390903124b){:target="_blank"}{:rel="noopener"}
-- [Intermediate R](https://www.datacamp.com/statement-of-accomplishment/course/584be0e933ca29820d42f5a2824c31ccb2d622b8){:target="_blank"}{:rel="noopener"}
-- [Intermediate R - Practice](https://www.datacamp.com/statement-of-accomplishment/course/b75a4bf5b1f9c3906f8ed4d599b8c762e7233080){:target="_blank"}{:rel="noopener"}
-- [Reporting with R Markdown](https://www.datacamp.com/statement-of-accomplishment/course/7035e809e0d9b5f3882397dfe33045f2a7b9c70b){:target="_blank"}{:rel="noopener"}
-- [Spreadsheet Basics](https://www.datacamp.com/statement-of-accomplishment/course/4e2cca0b0abed14a14d0ea3756fce42be408ab1e){:target="_blank"}{:rel="noopener"}
-- [Data Analysis with Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/b14f002cba04903f9fd32142e558767f27b7348a){:target="_blank"}{:rel="noopener"}
+- Python
+    1. [Intro to Python for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/2b11ec2939e7978fbc9989c1935b465b73fb99f2){:target="_blank"}{:rel="noopener"}
+    2. [Intermediate Python for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/2b1a1914a423fce52d82e7939838172078235ca0){:target="_blank"}{:rel="noopener"}
+    3. [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/f484bf67e752e9fcce56b371e38b98e1ab06ef44){:target="_blank"}{:rel="noopener"}
+    4. [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/d45b485905050455cbfe666a9e031c36174ffdc9){:target="_blank"}{:rel="noopener"}
+    5. [Importing Data in Python (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/6b98832b0f9be74b9d80f99fa89bcaf280a5491a){:target="_blank"}{:rel="noopener"}
+    6. [Importing Data in Python (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/76eca02a661167b7f947ee851ac5bbd7c49c92c4){:target="_blank"}{:rel="noopener"}
+    7. [Importing & Managing Financial Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/e2d47cda1392e3bbb8f53771ddfbc3ddef9a8962){:target="_blank"}{:rel="noopener"}
+    8. [Introduction to Data Visualization with Python](https://www.datacamp.com/statement-of-accomplishment/course/64354331dbafb8c89d18d033d4b38782b735fdf8){:target="_blank"}{:rel="noopener"}
+    9. [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/e5bbe7fb7e5517b2134d66ae2f7eebc6654e763e){:target="_blank"}{:rel="noopener"}
+    10. [pandas Foundations](https://www.datacamp.com/statement-of-accomplishment/course/1c3c629ffc0ba2e76c2e73cf46c77b3ba419a408){:target="_blank"}{:rel="noopener"}
+    11. [Cleaning Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/5886a18f163cdbd12a94a404a616ad21c3f159ea){:target="_blank"}{:rel="noopener"}
+    12. [Manipulating DataFrames with pandas](https://www.datacamp.com/statement-of-accomplishment/course/1d171e21e32f0095223226963b252b5819ad4e38){:target="_blank"}{:rel="noopener"}
+    13. [Merging DataFrames with pandas](https://www.datacamp.com/statement-of-accomplishment/course/028ffa6da1274c761230d15e3df1930c01260041){:target="_blank"}{:rel="noopener"}
+    14. [Data Types for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/d8d22c2475509550b89cd59557a9be35be6aa9be){:target="_blank"}{:rel="noopener"}
+    15. [Introduction to Databases in Python](https://www.datacamp.com/statement-of-accomplishment/course/0c6ee250fa36fe3d8f64b8bb6aa704a8303d828c){:target="_blank"}{:rel="noopener"}
+    16. [Python for R Users](https://www.datacamp.com/statement-of-accomplishment/course/140b82b7ecaed3cc000a59186f9ec01098b303c0){:target="_blank"}{:rel="noopener"}
+- R
+    1. [Introduction to R](https://www.datacamp.com/statement-of-accomplishment/course/7bdfb819d6a2c6bc4412b9dc8140c7390903124b){:target="_blank"}{:rel="noopener"}
+    2. [Intermediate R](https://www.datacamp.com/statement-of-accomplishment/course/584be0e933ca29820d42f5a2824c31ccb2d622b8){:target="_blank"}{:rel="noopener"}
+    3. [Intermediate R - Practice](https://www.datacamp.com/statement-of-accomplishment/course/b75a4bf5b1f9c3906f8ed4d599b8c762e7233080){:target="_blank"}{:rel="noopener"}
+    4. [Reporting with R Markdown](https://www.datacamp.com/statement-of-accomplishment/course/7035e809e0d9b5f3882397dfe33045f2a7b9c70b){:target="_blank"}{:rel="noopener"}
+- Google Sheets     
+    1. [Spreadsheet Basics](https://www.datacamp.com/statement-of-accomplishment/course/4e2cca0b0abed14a14d0ea3756fce42be408ab1e){:target="_blank"}{:rel="noopener"}
+    2. [Data Analysis with Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/b14f002cba04903f9fd32142e558767f27b7348a){:target="_blank"}{:rel="noopener"}
+- SQL  
+    1. [Intro to SQL for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/95d5b6e23cab269f2efae12defcfad77b94b88c6){:target="_blank"}{:rel="noopener"}
+- Shell    
+    1. [Introduction to Shell for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/197617016c96525b6200df58b12dead663a812d2){:target="_blank"}{:rel="noopener"}
+- Git    
+    1. [Introduction to Git for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/95b42c39f12ca2a1e53d246f627be3dc7c16ee29){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

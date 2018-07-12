@@ -239,6 +239,7 @@ https://jquery.com/){:target="_blank"}{:rel="noopener"}, [Bootstrap](http://getb
     2. [Data Analysis with Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/b14f002cba04903f9fd32142e558767f27b7348a){:target="_blank"}{:rel="noopener"}
 - SQL  
     1. [Intro to SQL for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/95d5b6e23cab269f2efae12defcfad77b94b88c6){:target="_blank"}{:rel="noopener"}
+    2. [Joining Data in PostgreSQL](https://www.datacamp.com/statement-of-accomplishment/course/7f6c81ac720c8413812f3df35d1dfceac68a81f5){:target="_blank"}{:rel="noopener"}
 - Shell    
     1. [Introduction to Shell for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/197617016c96525b6200df58b12dead663a812d2){:target="_blank"}{:rel="noopener"}
 - Git    

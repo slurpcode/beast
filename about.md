@@ -43,6 +43,12 @@ So by now you must already be thinking, wow **The Beast** also has a **Jekyll** 
 **Some of the cool tech I am interested in or I know about**
 ======================================================
 
+- [Golang](https://golang.org/){:target="_blank"}{:rel="noopener"}, [Gin](
+https://github.com/gin-gonic/gin){:target="_blank"}{:rel="noopener"}, [Colly](
+http://go-colly.org/){:target="_blank"}{:rel="noopener"}, [goquery](
+https://github.com/PuerkitoBio/goquery){:target="_blank"}{:rel="noopener"}, [GoLand](
+https://www.jetbrains.com/go/){:target="_blank"}{:rel="noopener"}
+
 - [Ruby](https://www.ruby-lang.org/en/){:target="_blank"}{:rel="noopener"}, [PHP](
 http://php.net/){:target="_blank"}{:rel="noopener"}, [JavaScript](
 https://en.wikipedia.org/wiki/JavaScript){:target="_blank"}{:rel="noopener"}, [Python](
@@ -92,7 +98,9 @@ https://www.webyog.com/){:target="_blank"}{:rel="noopener"}, [phpMyAdmin](
 https://www.phpmyadmin.net/){:target="_blank"}{:rel="noopener"},
 [PostgreSQL](https://www.postgresql.org/){:target="_blank"}{:rel="noopener"}, [DataGrip](https://www.jetbrains.com/datagrip/){:target="_blank"}{:rel="noopener"}
 
-- [Oracle VirtualBox](https://www.virtualbox.org/){:target="_blank"}{:rel="noopener"}
+- [Oracle VirtualBox](https://www.virtualbox.org/){:target="_blank"}{:rel="noopener"}, [Heroku](
+https://www.heroku.com/){:target="_blank"}{:rel="noopener"}, [Open Graph protocol](
+http://ogp.me/){:target="_blank"}{:rel="noopener"}
 
 - [TechSmith Camtasia](https://www.techsmith.com/camtasia.html){:target="_blank"}{:rel="noopener"} for screen recording.
 
@@ -127,7 +135,10 @@ https://jquery.com/){:target="_blank"}{:rel="noopener"}, [Bootstrap](http://getb
 **Tech I have been learning about recently**
 ============================================
 
-- [Matplotlib](https://matplotlib.org){:target="_blank"}{:rel="noopener"}, [Pandas](http://pandas.pydata.org/){:target="_blank"}{:rel="noopener"}, [NumPy](http://www.numpy.org/){:target="_blank"}{:rel="noopener"}
+- [Matplotlib](https://matplotlib.org){:target="_blank"}{:rel="noopener"}, [Pandas](
+http://pandas.pydata.org/){:target="_blank"}{:rel="noopener"}, [NumPy](
+http://www.numpy.org/){:target="_blank"}{:rel="noopener"}, [Seaborn](
+https://seaborn.pydata.org/){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 

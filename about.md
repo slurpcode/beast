@@ -46,7 +46,8 @@ So by now you must already be thinking, wow **The Beast** also has a **Jekyll** 
 - [Golang](https://golang.org/){:target="_blank"}{:rel="noopener"}, [Gin](
 https://github.com/gin-gonic/gin){:target="_blank"}{:rel="noopener"}, [Colly](
 http://go-colly.org/){:target="_blank"}{:rel="noopener"}, [goquery](
-https://github.com/PuerkitoBio/goquery){:target="_blank"}{:rel="noopener"}, [GoLand](
+https://github.com/PuerkitoBio/goquery){:target="_blank"}{:rel="noopener"}, [govendor](
+https://github.com/kardianos/govendor){:target="_blank"}{:rel="noopener"}, [GoLand](
 https://www.jetbrains.com/go/){:target="_blank"}{:rel="noopener"}
 
 - [Ruby](https://www.ruby-lang.org/en/){:target="_blank"}{:rel="noopener"}, [PHP](

@@ -59,7 +59,8 @@ https://www.python.org/){:target="_blank"}{:rel="noopener"}
 
 - [kramdown](http://kramdown.gettalong.org/index.html){:target="_blank"}{:rel="noopener"}, [Jekyll](
 https://jekyllrb.com/){:target="_blank"}{:rel="noopener"}, [Markdown](
-https://en.wikipedia.org/wiki/Markdown){:target="_blank"}{:rel="noopener"} and [GitHub Pages](https://pages.github.com/){:target="_blank"}{:rel="noopener"}  
+https://en.wikipedia.org/wiki/Markdown){:target="_blank"}{:rel="noopener"}, [Open Graph protocol](
+http://ogp.me/){:target="_blank"}{:rel="noopener"}
 
 - [Apache FOP](
 https://xmlgraphics.apache.org/fop/){:target="_blank"}{:rel="noopener"}, [DITA Open Toolkit](
@@ -100,8 +101,11 @@ https://www.phpmyadmin.net/){:target="_blank"}{:rel="noopener"},
 [PostgreSQL](https://www.postgresql.org/){:target="_blank"}{:rel="noopener"}, [DataGrip](https://www.jetbrains.com/datagrip/){:target="_blank"}{:rel="noopener"}
 
 - [Oracle VirtualBox](https://www.virtualbox.org/){:target="_blank"}{:rel="noopener"}, [Heroku](
-https://www.heroku.com/){:target="_blank"}{:rel="noopener"}, [Open Graph protocol](
-http://ogp.me/){:target="_blank"}{:rel="noopener"}
+https://www.heroku.com/){:target="_blank"}{:rel="noopener"}, [GitHub Pages](
+https://pages.github.com/){:target="_blank"}{:rel="noopener"}, [DigitalOcean](
+https://www.digitalocean.com/){:target="_blank"}{:rel="noopener"}, [cPanel](
+https://cpanel.com/){:target="_blank"}{:rel="noopener"}, [Linode](
+https://www.linode.com/){:target="_blank"}{:rel="noopener"}
 
 - [TechSmith Camtasia](https://www.techsmith.com/camtasia.html){:target="_blank"}{:rel="noopener"} for screen recording.
 

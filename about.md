@@ -47,7 +47,8 @@ So by now you must already be thinking, wow **The Beast** also has a **Jekyll** 
 https://github.com/gin-gonic/gin){:target="_blank"}{:rel="noopener"}, [Colly](
 http://go-colly.org/){:target="_blank"}{:rel="noopener"}, [goquery](
 https://github.com/PuerkitoBio/goquery){:target="_blank"}{:rel="noopener"}, [govendor](
-https://github.com/kardianos/govendor){:target="_blank"}{:rel="noopener"}, [GoLand](
+https://github.com/kardianos/govendor){:target="_blank"}{:rel="noopener"}, [que-go](
+https://github.com/bgentry/que-go){:target="_blank"}{:rel="noopener"}, [GoLand](
 https://www.jetbrains.com/go/){:target="_blank"}{:rel="noopener"}
 
 - [Ruby](https://www.ruby-lang.org/en/){:target="_blank"}{:rel="noopener"}, [PHP](
@@ -56,11 +57,6 @@ https://en.wikipedia.org/wiki/JavaScript){:target="_blank"}{:rel="noopener"}, [P
 https://www.python.org/){:target="_blank"}{:rel="noopener"}
 
 - [Regular Expressions](https://en.wikipedia.org/wiki/Regular_expression){:target="_blank"}{:rel="noopener"} and how to use them in many programming languages.
-
-- [kramdown](http://kramdown.gettalong.org/index.html){:target="_blank"}{:rel="noopener"}, [Jekyll](
-https://jekyllrb.com/){:target="_blank"}{:rel="noopener"}, [Markdown](
-https://en.wikipedia.org/wiki/Markdown){:target="_blank"}{:rel="noopener"}, [Open Graph protocol](
-http://ogp.me/){:target="_blank"}{:rel="noopener"}
 
 - [Apache FOP](
 https://xmlgraphics.apache.org/fop/){:target="_blank"}{:rel="noopener"}, [DITA Open Toolkit](
@@ -129,10 +125,13 @@ http://lubuntu.net/){:target="_blank"}{:rel="noopener"}, [Kubuntu](
 http://kubuntu.org/){:target="_blank"}{:rel="noopener"} or [Linux Mint](
 https://www.linuxmint.com/){:target="_blank"}{:rel="noopener"}
 
-- [HTML 5](
+- [Markdown](
+https://en.wikipedia.org/wiki/Markdown){:target="_blank"}{:rel="noopener"}, [HTML 5](
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5){:target="_blank"}{:rel="noopener"}, [CSS](
 https://www.w3.org/Style/CSS/Overview.en.html){:target="_blank"}{:rel="noopener"}, [jQuery](
-https://jquery.com/){:target="_blank"}{:rel="noopener"}, [Bootstrap](http://getbootstrap.com/){:target="_blank"}{:rel="noopener"}  - I try not to focus on the front end.
+https://jquery.com/){:target="_blank"}{:rel="noopener"}, [Bootstrap](
+http://getbootstrap.com/){:target="_blank"}{:rel="noopener"}, [Open Graph protocol](
+http://ogp.me/){:target="_blank"}{:rel="noopener"}  - I try not to focus on the front end.
 
 [&#8593;](#top) [&#8595;](#theend)
 
@@ -341,7 +340,7 @@ https://www.debian.org/){:target="_blank"}{:rel="noopener"}
 
 [&#8593;](#top) [&#8595;](#theend)
 
-**Ruby Tech I have been using recently**
+**Ruby Tech I have used**
 ====================================
 
 - [Nokogiri](http://www.nokogiri.org/){:target="_blank"}{:rel="noopener"}

@@ -49,6 +49,7 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link id="icon" rel="icon" href="/images/icons/0.ico">
   <!--Load the AJAX API-->
   <script src="https://www.gstatic.com/charts/loader.js"></script>
   <script src="https://www.google.com/jsapi"></script>
@@ -62,8 +63,10 @@
   <script>
       $(document).ready(function() {
           window.setInterval(function(){
+              var i = Math.floor(Math.random() * 14);
+              $("#icon").attr("href", "/images/icons/"+ i +".ico");
               var r = Math.floor(Math.random() * 72);
-              $("#logo").attr("src", "/images/logos/logo-"+ r +".png")
+              $("#logo").attr("src", "/images/logos/logo-"+ r +".png");
           }, 8500);
       });
   </script>

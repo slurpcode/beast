@@ -245,6 +245,7 @@ https://seaborn.pydata.org/){:target="_blank"}{:rel="noopener"}
     15. [Introduction to Databases in Python](https://www.datacamp.com/statement-of-accomplishment/course/0c6ee250fa36fe3d8f64b8bb6aa704a8303d828c){:target="_blank"}{:rel="noopener"}
     16. [Python for R Users](https://www.datacamp.com/statement-of-accomplishment/course/140b82b7ecaed3cc000a59186f9ec01098b303c0){:target="_blank"}{:rel="noopener"}
     17. [Intro to Python for Finance](https://www.datacamp.com/statement-of-accomplishment/course/f8443761c85741c90348217d438f72e03dc54f85){:target="_blank"}{:rel="noopener"}
+    18. [Introduction to Data Science in Python](https://www.datacamp.com/statement-of-accomplishment/course/c7edb4a899d5ece950fdb98e522b24a7a6ffa51f){:target="_blank"}{:rel="noopener"}
 - R
     1. [Introduction to R](https://www.datacamp.com/statement-of-accomplishment/course/7bdfb819d6a2c6bc4412b9dc8140c7390903124b){:target="_blank"}{:rel="noopener"}
     2. [Intermediate R](https://www.datacamp.com/statement-of-accomplishment/course/584be0e933ca29820d42f5a2824c31ccb2d622b8){:target="_blank"}{:rel="noopener"}

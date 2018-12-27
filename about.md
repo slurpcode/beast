@@ -228,7 +228,7 @@ https://seaborn.pydata.org/){:target="_blank"}{:rel="noopener"}
 #### Courses
 
 - Python
-    1. [Intro to Python for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/2b11ec2939e7978fbc9989c1935b465b73fb99f2){:target="_blank"}{:rel="noopener"}
+    1. [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/2b11ec2939e7978fbc9989c1935b465b73fb99f2){:target="_blank"}{:rel="noopener"}
     2. [Intermediate Python for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/2b1a1914a423fce52d82e7939838172078235ca0){:target="_blank"}{:rel="noopener"}
     3. [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/f484bf67e752e9fcce56b371e38b98e1ab06ef44){:target="_blank"}{:rel="noopener"}
     4. [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/d45b485905050455cbfe666a9e031c36174ffdc9){:target="_blank"}{:rel="noopener"}

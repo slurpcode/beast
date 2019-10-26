@@ -217,7 +217,8 @@ https://seaborn.pydata.org/){:target="_blank"}{:rel="noopener"}
 
 #### Career Tracks
 
-- [Python Programmer](https://www.datacamp.com/statement-of-accomplishment/track/1de989b46e423beacca2a8fed22877fcce8519b7){:target="_blank"}{:rel="noopener"}
+- [Python Programmer](https://www.datacamp.com/statement-of-accomplishment/track/4e55c6d35b94ae97a9824dfebea38d890448feb6)
+- [Python Programmer - Old](https://www.datacamp.com/statement-of-accomplishment/track/1de989b46e423beacca2a8fed22877fcce8519b7){:target="_blank"}{:rel="noopener"}
 
 #### Skill Tracks
 
@@ -253,12 +254,13 @@ https://seaborn.pydata.org/){:target="_blank"}{:rel="noopener"}
     2. [Intermediate R](https://www.datacamp.com/statement-of-accomplishment/course/584be0e933ca29820d42f5a2824c31ccb2d622b8){:target="_blank"}{:rel="noopener"}
     3. [Intermediate R - Practice](https://www.datacamp.com/statement-of-accomplishment/course/b75a4bf5b1f9c3906f8ed4d599b8c762e7233080){:target="_blank"}{:rel="noopener"}
     4. [Reporting with R Markdown](https://www.datacamp.com/statement-of-accomplishment/course/7035e809e0d9b5f3882397dfe33045f2a7b9c70b){:target="_blank"}{:rel="noopener"}
-- Google Sheets     
-    1. [Spreadsheet Basics](https://www.datacamp.com/statement-of-accomplishment/course/4e2cca0b0abed14a14d0ea3756fce42be408ab1e){:target="_blank"}{:rel="noopener"}
-    2. [Data Analysis with Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/b14f002cba04903f9fd32142e558767f27b7348a){:target="_blank"}{:rel="noopener"}
 - SQL  
     1. [Intro to SQL for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/95d5b6e23cab269f2efae12defcfad77b94b88c6){:target="_blank"}{:rel="noopener"}
     2. [Joining Data in PostgreSQL](https://www.datacamp.com/statement-of-accomplishment/course/7f6c81ac720c8413812f3df35d1dfceac68a81f5){:target="_blank"}{:rel="noopener"}
+    3. [Introduction to Relational Databases in SQL](https://www.datacamp.com/statement-of-accomplishment/course/fc74d0252f30a18d87748dcbe2e5241c5ac6f2cb){:target="_blank"}{:rel="noopener"}
+- Google Sheets     
+    1. [Spreadsheet Basics](https://www.datacamp.com/statement-of-accomplishment/course/4e2cca0b0abed14a14d0ea3756fce42be408ab1e){:target="_blank"}{:rel="noopener"}
+    2. [Data Analysis with Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/b14f002cba04903f9fd32142e558767f27b7348a){:target="_blank"}{:rel="noopener"}
 - Shell    
     1. [Introduction to Shell for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/197617016c96525b6200df58b12dead663a812d2){:target="_blank"}{:rel="noopener"}
     2. [Conda Essentials](https://www.datacamp.com/statement-of-accomplishment/course/05ca24c68b7e291e2792a799998ddfb9c48b037d){:target="_blank"}{:rel="noopener"}

@@ -256,14 +256,15 @@ https://seaborn.pydata.org/){:target="_blank"}{:rel="noopener"}
     4. [Reporting with R Markdown](https://www.datacamp.com/statement-of-accomplishment/course/7035e809e0d9b5f3882397dfe33045f2a7b9c70b){:target="_blank"}{:rel="noopener"}
 - SQL  
     1. [Intro to SQL for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/95d5b6e23cab269f2efae12defcfad77b94b88c6){:target="_blank"}{:rel="noopener"}
-    2. [Joining Data in PostgreSQL](https://www.datacamp.com/statement-of-accomplishment/course/7f6c81ac720c8413812f3df35d1dfceac68a81f5){:target="_blank"}{:rel="noopener"}
+    2. [Joining Data in SQL](https://www.datacamp.com/statement-of-accomplishment/course/7f6c81ac720c8413812f3df35d1dfceac68a81f5){:target="_blank"}{:rel="noopener"}
     3. [Introduction to Relational Databases in SQL](https://www.datacamp.com/statement-of-accomplishment/course/fc74d0252f30a18d87748dcbe2e5241c5ac6f2cb){:target="_blank"}{:rel="noopener"}
-- Google Sheets     
-    1. [Spreadsheet Basics](https://www.datacamp.com/statement-of-accomplishment/course/4e2cca0b0abed14a14d0ea3756fce42be408ab1e){:target="_blank"}{:rel="noopener"}
-    2. [Data Analysis with Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/b14f002cba04903f9fd32142e558767f27b7348a){:target="_blank"}{:rel="noopener"}
 - Shell    
     1. [Introduction to Shell for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/197617016c96525b6200df58b12dead663a812d2){:target="_blank"}{:rel="noopener"}
     2. [Conda Essentials](https://www.datacamp.com/statement-of-accomplishment/course/05ca24c68b7e291e2792a799998ddfb9c48b037d){:target="_blank"}{:rel="noopener"}
+    3. [Data Processing in Shell](https://www.datacamp.com/statement-of-accomplishment/course/066b448fafb7d9ac9207cb0f18ce57e6f48e4764)
+- Google Sheets     
+    1. [Spreadsheet Basics](https://www.datacamp.com/statement-of-accomplishment/course/4e2cca0b0abed14a14d0ea3756fce42be408ab1e){:target="_blank"}{:rel="noopener"}
+    2. [Data Analysis with Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/b14f002cba04903f9fd32142e558767f27b7348a){:target="_blank"}{:rel="noopener"}
 - Git    
     1. [Introduction to Git for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/95b42c39f12ca2a1e53d246f627be3dc7c16ee29){:target="_blank"}{:rel="noopener"}
 

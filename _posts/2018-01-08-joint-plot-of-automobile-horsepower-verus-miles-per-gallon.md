@@ -5,7 +5,7 @@ date:   2018-01-08 05:21:12 +1000
 categories: python
 ---
 
-Using [seaborn](https://seaborn.pydata.org/){:target="_blank"}{:rel="noopener"}, I have plotted a jointplot of automobile horsepower versus miles per gallon.
+Using [seaborn](https://seaborn.pydata.org/), I have plotted a jointplot of automobile horsepower versus miles per gallon.
 
 ```python
 import seaborn as sns

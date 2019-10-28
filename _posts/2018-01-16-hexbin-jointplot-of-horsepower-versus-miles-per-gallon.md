@@ -6,7 +6,7 @@ categories: python
 ---
 
 
-Using [seaborn](https://seaborn.pydata.org/){:target="_blank"}{:rel="noopener"}, I have plotted a hexbin style jointplot of automobile horsepower versus miles per gallon.
+Using [seaborn](https://seaborn.pydata.org/), I have plotted a hexbin style jointplot of automobile horsepower versus miles per gallon.
 
 
 ```python

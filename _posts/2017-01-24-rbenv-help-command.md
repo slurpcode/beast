@@ -5,7 +5,7 @@ date:   2017-01-24 01:00:00 +1000
 categories: ruby
 ---
 
-List all [rbenv](https://github.com/rbenv/rbenv){:target="_blank"}{:rel="noopener"} commands:
+List all [rbenv](https://github.com/rbenv/rbenv) commands:
 
 ```
 $ rbenv commands

@@ -5,7 +5,7 @@ date:   2018-01-08 04:21:12 +1000
 categories: python
 ---
 
-Using [seaborn](https://seaborn.pydata.org/){:target="_blank"}{:rel="noopener"}, I have plotted a violin plot of automobile cylinders versus horsepower.
+Using [seaborn](https://seaborn.pydata.org/), I have plotted a violin plot of automobile cylinders versus horsepower.
 
 ```python
 import seaborn as sns

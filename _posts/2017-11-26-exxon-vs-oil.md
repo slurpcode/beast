@@ -5,8 +5,8 @@ date:   2017-11-26 02:39:00 +1000
 categories: python
 ---
 
-This post shows the Exxon Mobile Corporation share price versus the West Texas Intermediate oil price displayed using [Matplotlib](https://matplotlib.org/){:target="_blank"}{:rel="noopener"} and the Pandas DataReader.  The data comes from both
- Google finance and [FRED](https://fred.stlouisfed.org/){:target="_blank"}{:rel="noopener"} Economic Data.
+This post shows the Exxon Mobile Corporation share price versus the West Texas Intermediate oil price displayed using [Matplotlib](https://matplotlib.org/) and the Pandas DataReader.  The data comes from both
+ Google finance and [FRED](https://fred.stlouisfed.org/) Economic Data.
 
 ![Exxon Mobile Corporation share price versus the West Texas Intermediate oil price](
 /images/exxon-vs-oil-price.png)

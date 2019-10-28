@@ -5,7 +5,7 @@ date:   2018-01-03 04:21:12 +1000
 categories: python
 ---
 
-Using [seaborn](https://seaborn.pydata.org/){:target="_blank"}{:rel="noopener"}, I have plotted automobile weight versus horsepower grouped by continent as shown below.
+Using [seaborn](https://seaborn.pydata.org/), I have plotted automobile weight versus horsepower grouped by continent as shown below.
 
 ```python
 import seaborn as sns

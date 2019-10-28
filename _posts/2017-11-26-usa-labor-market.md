@@ -6,7 +6,7 @@ categories: python
 ---
 
 This post highlights the USA Labor Market shown by a comparison between the Unemployment Rate and Participation Rate
- with data sourced from [FRED](https://fred.stlouisfed.org/){:target="_blank"}{:rel="noopener"} Economic Data.
+ with data sourced from [FRED](https://fred.stlouisfed.org/) Economic Data.
 
 ![USA Labor Market](/images/us-labor-market-participation-vs-unemployment.png)
 

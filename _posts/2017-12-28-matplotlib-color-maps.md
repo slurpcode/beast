@@ -5,7 +5,7 @@ date:   2017-12-28 11:49:00 +1000
 categories: python
 ---
 
-[Matplotlib](https://matplotlib.org){:target="_blank"}{:rel="noopener"} provides a variety of color maps that you can style your content with.
+[Matplotlib](https://matplotlib.org) provides a variety of color maps that you can style your content with.
 
 The next nine lines of code produces the image below: 
 

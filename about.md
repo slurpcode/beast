@@ -249,6 +249,7 @@ https://seaborn.pydata.org/)
     18. [Introduction to Data Science in Python](https://www.datacamp.com/statement-of-accomplishment/course/c7edb4a899d5ece950fdb98e522b24a7a6ffa51f)
     19. [Python for Spreadsheet Users](https://www.datacamp.com/statement-of-accomplishment/course/3d6f119e9659d25a30d664555d29809a7df369bb)
     20. [Python for MATLAB Users](https://www.datacamp.com/statement-of-accomplishment/course/dc435105e8779442167aa8104205797b3b9479ed)
+    21. [Analyzing Police Activity with pandas](https://www.datacamp.com/statement-of-accomplishment/course/a7582fa36e9fb8b6e604d283eadd1eecad5ce276)
 - R
     1. [Introduction to R](https://www.datacamp.com/statement-of-accomplishment/course/7bdfb819d6a2c6bc4412b9dc8140c7390903124b)
     2. [Intermediate R](https://www.datacamp.com/statement-of-accomplishment/course/584be0e933ca29820d42f5a2824c31ccb2d622b8)

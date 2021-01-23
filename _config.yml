@@ -21,7 +21,7 @@ defaults:
       type: category
     values:
       layout: "category"
-url: "http://jbampton.github.io" # the base hostname & protocol for your site
+url: "https://jbampton.github.io" # the base hostname & protocol for your site
 twitter_username: johnbampton
 github_username:  jbampton
 feed:
